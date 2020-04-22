@@ -1,0 +1,566 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+1,2017,Hyderabad,05-04-2017,SRH,RCB,RCB,field,normal,0,SRH,35,0,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,NJ Llong
+2,2017,Pune,06-04-2017,MI,RPS,RPS,field,normal,0,RPS,0,7,SPD Smith,Maharashtra Cricket Association Stadium,A Nand Kishore,S Ravi
+3,2017,Rajkot,07-04-2017,GL,KKR,KKR,field,normal,0,KKR,0,10,CA Lynn,Saurashtra Cricket Association Stadium,Nitin Menon,CK Nandan
+4,2017,Indore,08-04-2017,RPS,KXIP,KXIP,field,normal,0,KXIP,0,6,GJ Maxwell,Holkar Cricket Stadium,AK Chaudhary,C Shamshuddin
+5,2017,Bangalore,08-04-2017,RCB,DD,RCB,bat,normal,0,RCB,15,0,KM Jadhav,M Chinnaswamy Stadium,,
+6,2017,Hyderabad,09-04-2017,GL,SRH,SRH,field,normal,0,SRH,0,9,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal",A Deshmukh,NJ Llong
+7,2017,Mumbai,09-04-2017,KKR,MI,MI,field,normal,0,MI,0,4,N Rana,Wankhede Stadium,Nitin Menon,CK Nandan
+8,2017,Indore,10-04-2017,RCB,KXIP,RCB,bat,normal,0,KXIP,0,8,AR Patel,Holkar Cricket Stadium,AK Chaudhary,C Shamshuddin
+9,2017,Pune,11-04-2017,DD,RPS,RPS,field,normal,0,DD,97,0,SV Samson,Maharashtra Cricket Association Stadium,AY Dandekar,S Ravi
+10,2017,Mumbai,12-04-2017,SRH,MI,MI,field,normal,0,MI,0,4,JJ Bumrah,Wankhede Stadium,Nitin Menon,CK Nandan
+11,2017,Kolkata,13-04-2017,KXIP,KKR,KKR,field,normal,0,KKR,0,8,SP Narine,Eden Gardens,A Deshmukh,NJ Llong
+12,2017,Bangalore,14-04-2017,RCB,MI,MI,field,normal,0,MI,0,4,KA Pollard,M Chinnaswamy Stadium,KN Ananthapadmanabhan,AK Chaudhary
+13,2017,Rajkot,14-04-2017,RPS,GL,GL,field,normal,0,GL,0,7,AJ Tye,Saurashtra Cricket Association Stadium,A Nand Kishore,S Ravi
+14,2017,Kolkata,15-04-2017,KKR,SRH,SRH,field,normal,0,KKR,17,0,RV Uthappa,Eden Gardens,AY Dandekar,NJ Llong
+15,2017,Delhi,15-04-2017,DD,KXIP,DD,bat,normal,0,DD,51,0,CJ Anderson,Feroz Shah Kotla,YC Barde,Nitin Menon
+16,2017,Mumbai,16-04-2017,GL,MI,MI,field,normal,0,MI,0,6,N Rana,Wankhede Stadium,A Nand Kishore,S Ravi
+17,2017,Bangalore,16-04-2017,RPS,RCB,RCB,field,normal,0,RPS,27,0,BA Stokes,M Chinnaswamy Stadium,KN Ananthapadmanabhan,C Shamshuddin
+18,2017,Delhi,17-04-2017,DD,KKR,DD,bat,normal,0,KKR,0,4,NM Coulter-Nile,Feroz Shah Kotla,Nitin Menon,CK Nandan
+19,2017,Hyderabad,17-04-2017,SRH,KXIP,KXIP,field,normal,0,SRH,5,0,B Kumar,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,A Deshmukh
+20,2017,Rajkot,18-04-2017,RCB,GL,GL,field,normal,0,RCB,21,0,CH Gayle,Saurashtra Cricket Association Stadium,S Ravi,VK Sharma
+21,2017,Hyderabad,19-04-2017,SRH,DD,SRH,bat,normal,0,SRH,15,0,KS Williamson,"Rajiv Gandhi International Stadium, Uppal",CB Gaffaney,NJ Llong
+22,2017,Indore,20-04-2017,KXIP,MI,MI,field,normal,0,MI,0,8,JC Buttler,Holkar Cricket Stadium,M Erasmus,C Shamshuddin
+23,2017,Kolkata,21-04-2017,KKR,GL,GL,field,normal,0,GL,0,4,SK Raina,Eden Gardens,CB Gaffaney,Nitin Menon
+24,2017,Mumbai,22-04-2017,MI,DD,DD,field,normal,0,MI,14,0,MJ McClenaghan,Wankhede Stadium,A Nand Kishore,S Ravi
+25,2017,Pune,22-04-2017,SRH,RPS,RPS,field,normal,0,RPS,0,6,MS Dhoni,Maharashtra Cricket Association Stadium,AY Dandekar,A Deshmukh
+26,2017,Rajkot,23-04-2017,KXIP,GL,GL,field,normal,0,KXIP,26,0,HM Amla,Saurashtra Cricket Association Stadium,AK Chaudhary,M Erasmus
+27,2017,Kolkata,23-04-2017,KKR,RCB,RCB,field,normal,0,KKR,82,0,NM Coulter-Nile,Eden Gardens,CB Gaffaney,CK Nandan
+28,2017,Mumbai,24-04-2017,RPS,MI,MI,field,normal,0,RPS,3,0,BA Stokes,Wankhede Stadium,A Nand Kishore,S Ravi
+29,2017,Pune,26-04-2017,RPS,KKR,KKR,field,normal,0,KKR,0,7,RV Uthappa,Maharashtra Cricket Association Stadium,AY Dandekar,NJ Llong
+30,2017,Bangalore,27-04-2017,RCB,GL,GL,field,normal,0,GL,0,7,AJ Tye,M Chinnaswamy Stadium,AK Chaudhary,C Shamshuddin
+31,2017,Kolkata,28-04-2017,DD,KKR,KKR,field,normal,0,KKR,0,7,G Gambhir,Eden Gardens,NJ Llong,S Ravi
+32,2017,Chandigarh,28-04-2017,SRH,KXIP,KXIP,field,normal,0,SRH,26,0,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,CK Nandan
+33,2017,Pune,29-04-2017,RPS,RCB,RCB,field,normal,0,RPS,61,0,LH Ferguson,Maharashtra Cricket Association Stadium,KN Ananthapadmanabhan,M Erasmus
+34,2017,Rajkot,29-04-2017,GL,MI,GL,bat,tie,0,MI,0,0,KH Pandya,Saurashtra Cricket Association Stadium,AK Chaudhary,CB Gaffaney
+35,2017,Chandigarh,30-04-2017,DD,KXIP,KXIP,field,normal,0,KXIP,0,10,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",YC Barde,CK Nandan
+36,2017,Hyderabad,30-04-2017,SRH,KKR,KKR,field,normal,0,SRH,48,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,S Ravi
+37,2017,Mumbai,01-05-2017,RCB,MI,RCB,bat,normal,0,MI,0,5,RG Sharma,Wankhede Stadium,AK Chaudhary,CB Gaffaney
+38,2017,Pune,01-05-2017,GL,RPS,RPS,field,normal,0,RPS,0,5,BA Stokes,Maharashtra Cricket Association Stadium,M Erasmus,C Shamshuddin
+39,2017,Delhi,02-05-2017,SRH,DD,DD,field,normal,0,DD,0,6,Mohammed Shami,Feroz Shah Kotla,YC Barde,Nitin Menon
+40,2017,Kolkata,03-05-2017,KKR,RPS,RPS,field,normal,0,RPS,0,4,RA Tripathi,Eden Gardens,KN Ananthapadmanabhan,A Nand Kishore
+41,2017,Delhi,04-05-2017,GL,DD,DD,field,normal,0,DD,0,7,RR Pant,Feroz Shah Kotla,M Erasmus,Nitin Menon
+42,2017,Bangalore,05-05-2017,KXIP,RCB,RCB,field,normal,0,KXIP,19,0,Sandeep Sharma,M Chinnaswamy Stadium,CB Gaffaney,C Shamshuddin
+43,2017,Hyderabad,06-05-2017,RPS,SRH,SRH,field,normal,0,RPS,12,0,JD Unadkat,"Rajiv Gandhi International Stadium, Uppal",KN Ananthapadmanabhan,AK Chaudhary
+44,2017,Delhi,06-05-2017,MI,DD,DD,field,normal,0,MI,146,0,LMP Simmons,Feroz Shah Kotla,Nitin Menon,CK Nandan
+45,2017,Bangalore,07-05-2017,RCB,KKR,KKR,field,normal,0,KKR,0,6,SP Narine,M Chinnaswamy Stadium,AY Dandekar,C Shamshuddin
+46,2017,Chandigarh,07-05-2017,KXIP,GL,GL,field,normal,0,GL,0,6,DR Smith,"Punjab Cricket Association IS Bindra Stadium, Mohali",A Nand Kishore,VK Sharma
+47,2017,Hyderabad,08-05-2017,MI,SRH,MI,bat,normal,0,SRH,0,7,S Dhawan,"Rajiv Gandhi International Stadium, Uppal",KN Ananthapadmanabhan,M Erasmus
+48,2017,Chandigarh,09-05-2017,KXIP,KKR,KKR,field,normal,0,KXIP,14,0,MM Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali",A Nand Kishore,S Ravi
+49,2017,Kanpur,10-05-2017,GL,DD,DD,field,normal,0,DD,0,2,SS Iyer,Green Park,YC Barde,AK Chaudhary
+50,2017,Mumbai,11-05-2017,KXIP,MI,MI,field,normal,0,KXIP,7,0,WP Saha,Wankhede Stadium,A Deshmukh,A Nand Kishore
+51,2017,Delhi,12-05-2017,DD,RPS,DD,bat,normal,0,DD,7,0,KK Nair,Feroz Shah Kotla,KN Ananthapadmanabhan,CK Nandan
+52,2017,Kanpur,13-05-2017,GL,SRH,SRH,field,normal,0,SRH,0,8,Mohammed Siraj,Green Park,AK Chaudhary,Nitin Menon
+53,2017,Kolkata,13-05-2017,MI,KKR,KKR,field,normal,0,MI,9,0,AT Rayudu,Eden Gardens,A Nand Kishore,S Ravi
+54,2017,Pune,14-05-2017,KXIP,RPS,RPS,field,normal,0,RPS,0,9,JD Unadkat,Maharashtra Cricket Association Stadium,AY Dandekar,A Deshmukh
+55,2017,Delhi,14-05-2017,RCB,DD,RCB,bat,normal,0,RCB,10,0,HV Patel,Feroz Shah Kotla,CK Nandan,C Shamshuddin
+56,2017,Mumbai,16-05-2017,RPS,MI,MI,field,normal,0,RPS,20,0,Washington Sundar,Wankhede Stadium,S Ravi,C Shamshuddin
+57,2017,Bangalore,17-05-2017,SRH,KKR,KKR,field,normal,1,KKR,0,7,NM Coulter-Nile,M Chinnaswamy Stadium,AK Chaudhary,Nitin Menon
+58,2017,Bangalore,19-05-2017,KKR,MI,MI,field,normal,0,MI,0,6,KV Sharma,M Chinnaswamy Stadium,NJ Llong,Nitin Menon
+59,2017,Hyderabad,21-05-2017,MI,RPS,MI,bat,normal,0,MI,1,0,KH Pandya,"Rajiv Gandhi International Stadium, Uppal",NJ Llong,S Ravi
+60,2008,Bangalore,18-04-2008,KKR,RCB,RCB,field,normal,0,KKR,140,0,BB McCullum,M Chinnaswamy Stadium,Asad Rauf,RE Koertzen
+61,2008,Chandigarh,19-04-2008,CSK,KXIP,CSK,bat,normal,0,CSK,33,0,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",MR Benson,SL Shastri
+62,2008,Delhi,19-04-2008,RR,DD,RR,bat,normal,0,DD,0,9,MF Maharoof,Feroz Shah Kotla,Aleem Dar,GA Pratapkumar
+63,2008,Mumbai,20-04-2008,MI,RCB,MI,bat,normal,0,RCB,0,5,MV Boucher,Wankhede Stadium,SJ Davis,DJ HaRPSer
+64,2008,Kolkata,20-04-2008,DC,KKR,DC,bat,normal,0,KKR,0,5,DJ Hussey,Eden Gardens,BF Bowden,K Hariharan
+65,2008,Jaipur,21-04-2008,KXIP,RR,KXIP,bat,normal,0,RR,0,6,SR Watson,Sawai Mansingh Stadium,Aleem Dar,RB Tiffin
+66,2008,Hyderabad,22-04-2008,DC,DD,DC,bat,normal,0,DD,0,9,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",IL Howell,AM Saheba
+67,2008,Chennai,23-04-2008,CSK,MI,MI,field,normal,0,CSK,6,0,ML Hayden,"MA Chidambaram Stadium, Chepauk",DJ HaRPSer,GA Pratapkumar
+68,2008,Hyderabad,24-04-2008,DC,RR,RR,field,normal,0,RR,0,3,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,MR Benson
+69,2008,Chandigarh,25-04-2008,KXIP,MI,MI,field,normal,0,KXIP,66,0,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",Aleem Dar,AM Saheba
+70,2008,Bangalore,26-04-2008,RCB,RR,RR,field,normal,0,RR,0,7,SR Watson,M Chinnaswamy Stadium,MR Benson,IL Howell
+71,2008,Chennai,26-04-2008,KKR,CSK,KKR,bat,normal,0,CSK,0,9,JDP Oram,"MA Chidambaram Stadium, Chepauk",BF Bowden,AV Jayaprakash
+72,2008,Mumbai,27-04-2008,MI,DC,DC,field,normal,0,DC,0,10,AC Gilchrist,Dr DY Patil Sports Academy,Asad Rauf,SL Shastri
+73,2008,Chandigarh,27-04-2008,DD,KXIP,DD,bat,normal,0,KXIP,0,4,SM Katich,"Punjab Cricket Association Stadium, Mohali",RE Koertzen,I Shivram
+74,2008,Bangalore,28-04-2008,CSK,RCB,CSK,bat,normal,0,CSK,13,0,MS Dhoni,M Chinnaswamy Stadium,BR Doctrove,RB Tiffin
+75,2008,Kolkata,29-04-2008,KKR,MI,KKR,bat,normal,0,MI,0,7,ST Jayasuriya,Eden Gardens,BF Bowden,AV Jayaprakash
+76,2008,Delhi,30-04-2008,DD,RCB,RCB,field,normal,0,DD,10,0,GD McGrath,Feroz Shah Kotla,Aleem Dar,I Shivram
+77,2008,Hyderabad,01-05-2008,DC,KXIP,KXIP,field,normal,0,KXIP,0,7,SE Marsh,"Rajiv Gandhi International Stadium, Uppal",BR Doctrove,RB Tiffin
+78,2008,Jaipur,01-05-2008,RR,KKR,RR,bat,normal,0,RR,45,0,SA Asnodkar,Sawai Mansingh Stadium,RE Koertzen,GA Pratapkumar
+79,2008,Chennai,02-05-2008,CSK,DD,CSK,bat,normal,0,DD,0,8,V Sehwag,"MA Chidambaram Stadium, Chepauk",BF Bowden,K Hariharan
+80,2008,Hyderabad,25-05-2008,DC,RCB,DC,bat,normal,0,RCB,0,5,R Vinay Kumar,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,RE Koertzen
+81,2008,Chandigarh,03-05-2008,KXIP,KKR,KXIP,bat,normal,0,KXIP,9,0,IK Pathan,"Punjab Cricket Association Stadium, Mohali",DJ HaRPSer,I Shivram
+82,2008,Mumbai,04-05-2008,MI,DD,DD,field,normal,0,MI,29,0,SM Pollock,Dr DY Patil Sports Academy,IL Howell,RE Koertzen
+83,2008,Jaipur,04-05-2008,CSK,RR,CSK,bat,normal,0,RR,0,8,Sohail Tanvir,Sawai Mansingh Stadium,Asad Rauf,AV Jayaprakash
+84,2008,Bangalore,05-05-2008,RCB,KXIP,KXIP,field,normal,0,KXIP,0,6,S Sreesanth,M Chinnaswamy Stadium,SJ Davis,BR Doctrove
+85,2008,Chennai,06-05-2008,CSK,DC,DC,field,normal,0,DC,0,7,AC Gilchrist,"MA Chidambaram Stadium, Chepauk",MR Benson,RB Tiffin
+86,2008,Mumbai,07-05-2008,RR,MI,MI,field,normal,0,MI,0,7,A Nehra,Dr DY Patil Sports Academy,DJ HaRPSer,RE Koertzen
+87,2008,Delhi,08-05-2008,DD,CSK,CSK,field,normal,0,CSK,0,4,MS Dhoni,Feroz Shah Kotla,Aleem Dar,RB Tiffin
+88,2008,Kolkata,08-05-2008,KKR,RCB,KKR,bat,normal,0,KKR,5,0,SC Ganguly,Eden Gardens,Asad Rauf,IL Howell
+89,2008,Jaipur,09-05-2008,DC,RR,RR,field,normal,0,RR,0,8,YK Pathan,Sawai Mansingh Stadium,MR Benson,AM Saheba
+90,2008,Bangalore,28-05-2008,RCB,MI,MI,field,normal,0,MI,0,9,CRD Fernando,M Chinnaswamy Stadium,BF Bowden,AV Jayaprakash
+91,2008,Chennai,10-05-2008,CSK,KXIP,KXIP,field,normal,0,CSK,18,0,L Balaji,"MA Chidambaram Stadium, Chepauk",AV Jayaprakash,BG Jerling
+92,2008,Hyderabad,11-05-2008,KKR,DC,KKR,bat,normal,0,KKR,23,0,SC Ganguly,"Rajiv Gandhi International Stadium, Uppal",IL Howell,AM Saheba
+93,2008,Jaipur,11-05-2008,DD,RR,RR,field,normal,0,RR,0,3,SR Watson,Sawai Mansingh Stadium,SJ Davis,RE Koertzen
+94,2008,Chandigarh,12-05-2008,RCB,KXIP,RCB,bat,normal,0,KXIP,0,9,SE Marsh,"Punjab Cricket Association Stadium, Mohali",BR Doctrove,I Shivram
+95,2008,Kolkata,13-05-2008,KKR,DD,KKR,bat,normal,0,KKR,23,0,Shoaib Akhtar,Eden Gardens,Asad Rauf,IL Howell
+96,2008,Mumbai,14-05-2008,CSK,MI,MI,field,normal,0,MI,0,9,ST Jayasuriya,Wankhede Stadium,BR Doctrove,AM Saheba
+97,2008,Chandigarh,28-05-2008,KXIP,RR,RR,field,normal,0,KXIP,41,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali",SJ Davis,K Hariharan
+98,2008,Delhi,15-05-2008,DD,DC,DC,field,normal,0,DD,12,0,A Mishra,Feroz Shah Kotla,BG Jerling,GA Pratapkumar
+99,2008,Mumbai,16-05-2008,KKR,MI,MI,field,normal,0,MI,0,8,SM Pollock,Wankhede Stadium,BR Doctrove,DJ HaRPSer
+100,2008,Delhi,17-05-2008,DD,KXIP,DD,bat,normal,1,KXIP,6,0,DPMD Jayawardene,Feroz Shah Kotla,AV Jayaprakash,RE Koertzen
+101,2008,Jaipur,17-05-2008,RR,RCB,RCB,field,normal,0,RR,65,0,GC Smith,Sawai Mansingh Stadium,BF Bowden,SL Shastri
+102,2008,Hyderabad,18-05-2008,MI,DC,DC,field,normal,0,MI,25,0,DJ Bravo,"Rajiv Gandhi International Stadium, Uppal",BR Doctrove,DJ HaRPSer
+103,2008,Kolkata,18-05-2008,KKR,CSK,KKR,bat,normal,1,CSK,3,0,M Ntini,Eden Gardens,Asad Rauf,K Hariharan
+104,2008,Bangalore,19-05-2008,RCB,DD,DD,field,normal,0,DD,0,5,SP Goswami,M Chinnaswamy Stadium,SJ Davis,GA Pratapkumar
+105,2008,Kolkata,20-05-2008,KKR,RR,RR,field,normal,0,RR,0,6,YK Pathan,Eden Gardens,BG Jerling,RE Koertzen
+106,2008,Mumbai,21-05-2008,KXIP,MI,MI,field,normal,0,KXIP,1,0,SE Marsh,Wankhede Stadium,BF Bowden,GA Pratapkumar
+107,2008,Chennai,21-05-2008,RCB,CSK,RCB,bat,normal,0,RCB,14,0,A Kumble,"MA Chidambaram Stadium, Chepauk",DJ HaRPSer,I Shivram
+108,2008,Chandigarh,23-05-2008,DC,KXIP,KXIP,field,normal,0,KXIP,0,6,SE Marsh,"Punjab Cricket Association Stadium, Mohali",Asad Rauf,SJ Davis
+109,2008,Delhi,24-05-2008,MI,DD,DD,field,normal,0,DD,0,5,KD Karthik,Feroz Shah Kotla,BF Bowden,K Hariharan
+110,2008,Chennai,24-05-2008,RR,CSK,RR,bat,normal,0,RR,10,0,JA Morkel,"MA Chidambaram Stadium, Chepauk",DJ HaRPSer,SL Shastri
+111,2008,Bangalore,03-05-2008,RCB,DC,DC,field,normal,0,RCB,3,0,P Kumar,M Chinnaswamy Stadium,BR Doctrove,SL Shastri
+112,2008,Kolkata,25-05-2008,KXIP,KKR,KXIP,bat,normal,0,KKR,0,3,Umar Gul,Eden Gardens,SJ Davis,I Shivram
+113,2008,Jaipur,26-05-2008,MI,RR,RR,field,normal,0,RR,0,5,Sohail Tanvir,Sawai Mansingh Stadium,BF Bowden,K Hariharan
+114,2008,Hyderabad,27-05-2008,DC,CSK,DC,bat,normal,0,CSK,0,7,SK Raina,"Rajiv Gandhi International Stadium, Uppal",BG Jerling,AM Saheba
+115,2008,Mumbai,30-05-2008,RR,DD,DD,field,normal,0,RR,105,0,SR Watson,Wankhede Stadium,BF Bowden,RE Koertzen
+116,2008,Mumbai,31-05-2008,KXIP,CSK,KXIP,bat,normal,0,CSK,0,9,M Ntini,Wankhede Stadium,Asad Rauf,DJ HaRPSer
+117,2008,Mumbai,01-06-2008,CSK,RR,RR,field,normal,0,RR,0,3,YK Pathan,Dr DY Patil Sports Academy,BF Bowden,RE Koertzen
+118,2010,Mumbai,12-03-2010,KKR,DC,DC,field,normal,0,KKR,11,0,AD Mathews,Dr DY Patil Sports Academy,RE Koertzen,RB Tiffin
+119,2010,Mumbai,13-03-2010,MI,RR,MI,bat,normal,0,MI,4,0,YK Pathan,Brabourne Stadium,RE Koertzen,RB Tiffin
+120,2010,Chandigarh,13-03-2010,KXIP,DD,DD,field,normal,0,DD,0,5,G Gambhir,"Punjab Cricket Association Stadium, Mohali",BR Doctrove,S Ravi
+121,2010,Kolkata,14-03-2010,RCB,KKR,KKR,field,normal,0,KKR,0,7,MK Tiwary,Eden Gardens,HDPK Dharmasena,AM Saheba
+122,2010,Chennai,14-03-2010,DC,CSK,DC,bat,normal,0,DC,31,0,WPUJC Vaas,"MA Chidambaram Stadium, Chepauk",K Hariharan,DJ HaRPSer
+123,2010,Ahmedabad,15-03-2010,RR,DD,DD,field,normal,0,DD,0,6,V Sehwag,"Sardar Patel Stadium, Motera",BG Jerling,RE Koertzen
+124,2010,Bangalore,16-03-2010,KXIP,RCB,KXIP,bat,normal,0,RCB,0,8,JH Kallis,M Chinnaswamy Stadium,S Das,DJ HaRPSer
+125,2010,Kolkata,16-03-2010,CSK,KKR,CSK,bat,normal,0,CSK,55,0,MS Dhoni,Eden Gardens,HDPK Dharmasena,AM Saheba
+126,2010,Delhi,17-03-2010,MI,DD,DD,field,normal,0,MI,98,0,SR Tendulkar,Feroz Shah Kotla,BR Doctrove,SK Tarapore
+127,2010,Bangalore,18-03-2010,RR,RCB,RCB,field,normal,0,RCB,0,10,JH Kallis,M Chinnaswamy Stadium,K Hariharan,DJ HaRPSer
+128,2010,Delhi,19-03-2010,DD,CSK,DD,bat,normal,0,CSK,0,5,ML Hayden,Feroz Shah Kotla,BR Doctrove,SK Tarapore
+129,2010,Cuttack,19-03-2010,DC,KXIP,KXIP,field,normal,0,DC,6,0,A Symonds,Barabati Stadium,BF Bowden,M Erasmus
+130,2010,Ahmedabad,20-03-2010,RR,KKR,RR,bat,normal,0,RR,34,0,AA Jhunjhunwala,"Sardar Patel Stadium, Motera",RE Koertzen,RB Tiffin
+131,2010,Mumbai,20-03-2010,MI,RCB,MI,bat,normal,0,RCB,0,7,JH Kallis,Brabourne Stadium,HDPK Dharmasena,SS Hazare
+132,2010,Cuttack,21-03-2010,DC,DD,DC,bat,normal,0,DC,10,0,A Symonds,Barabati Stadium,BF Bowden,M Erasmus
+133,2010,Chennai,21-03-2010,KXIP,CSK,CSK,field,tie,0,KXIP,0,0,J Theron,"MA Chidambaram Stadium, Chepauk",K Hariharan,DJ HaRPSer
+134,2010,Mumbai,22-03-2010,KKR,MI,KKR,bat,normal,0,MI,0,7,SR Tendulkar,Brabourne Stadium,SS Hazare,SJA Taufel
+135,2010,Bangalore,23-03-2010,RCB,CSK,CSK,field,normal,0,RCB,36,0,RV Uthappa,M Chinnaswamy Stadium,RE Koertzen,RB Tiffin
+136,2010,Chandigarh,24-03-2010,RR,KXIP,KXIP,field,normal,0,RR,31,0,AC Voges,"Punjab Cricket Association Stadium, Mohali",BR Doctrove,SK Tarapore
+137,2010,Mumbai,25-03-2010,CSK,MI,MI,field,normal,0,MI,0,5,SR Tendulkar,Brabourne Stadium,BF Bowden,AM Saheba
+138,2010,Ahmedabad,26-03-2010,DC,RR,DC,bat,normal,0,RR,0,8,YK Pathan,"Sardar Patel Stadium, Motera",HDPK Dharmasena,SJA Taufel
+139,2010,Chandigarh,27-03-2010,KKR,KXIP,KKR,bat,normal,0,KKR,39,0,MK Tiwary,"Punjab Cricket Association Stadium, Mohali",BR Doctrove,S Ravi
+140,2010,Bangalore,25-03-2010,DD,RCB,RCB,field,normal,0,DD,17,0,KM Jadhav,M Chinnaswamy Stadium,BG Jerling,RE Koertzen
+141,2010,Ahmedabad,28-03-2010,RR,CSK,RR,bat,normal,0,RR,17,0,NV Ojha,"Sardar Patel Stadium, Motera",SS Hazare,SJA Taufel
+142,2010,Mumbai,28-03-2010,MI,DC,DC,field,normal,0,MI,41,0,Harbhajan Singh,Dr DY Patil Sports Academy,S Das,K Hariharan
+143,2010,Delhi,29-03-2010,DD,KKR,DD,bat,normal,0,DD,40,0,DA Warner,Feroz Shah Kotla,SS Hazare,SJA Taufel
+144,2010,Mumbai,30-03-2010,KXIP,MI,MI,field,normal,0,MI,0,4,SL Malinga,Brabourne Stadium,BR Doctrove,SK Tarapore
+145,2010,Chennai,31-03-2010,RCB,CSK,RCB,bat,normal,0,CSK,0,5,M Vijay,"MA Chidambaram Stadium, Chepauk",BG Jerling,RE Koertzen
+146,2010,Delhi,31-03-2010,DD,RR,DD,bat,normal,0,DD,67,0,KD Karthik,Feroz Shah Kotla,HDPK Dharmasena,SJA Taufel
+147,2010,Kolkata,01-04-2010,KKR,DC,KKR,bat,normal,0,KKR,24,0,SC Ganguly,Eden Gardens,K Hariharan,DJ HaRPSer
+148,2010,Chandigarh,02-04-2010,KXIP,RCB,KXIP,bat,normal,0,RCB,0,6,KP Pietersen,"Punjab Cricket Association Stadium, Mohali",BF Bowden,M Erasmus
+149,2010,Chennai,03-04-2010,CSK,RR,CSK,bat,normal,0,CSK,23,0,M Vijay,"MA Chidambaram Stadium, Chepauk",RE Koertzen,RB Tiffin
+150,2010,Mumbai,03-04-2010,MI,DC,MI,bat,normal,0,MI,63,0,AT Rayudu,Brabourne Stadium,BR Doctrove,S Ravi
+151,2010,Kolkata,04-04-2010,KKR,KXIP,KKR,bat,normal,0,KXIP,0,8,DPMD Jayawardene,Eden Gardens,S Asnani,DJ HaRPSer
+152,2010,Delhi,04-04-2010,DD,RCB,DD,bat,normal,0,DD,37,0,PD Collingwood,Feroz Shah Kotla,BF Bowden,M Erasmus
+153,2010,Nagpur,05-04-2010,RR,DC,RR,bat,normal,0,RR,2,0,SK Warne,"Vidarbha Cricket Association Stadium, Jamtha",HDPK Dharmasena,SJA Taufel
+154,2010,Chennai,06-04-2010,CSK,MI,CSK,bat,normal,0,CSK,24,0,SK Raina,"MA Chidambaram Stadium, Chepauk",S Asnani,DJ HaRPSer
+155,2010,Jaipur,07-04-2010,KXIP,RR,KXIP,bat,normal,0,RR,0,9,MJ Lumb,Sawai Mansingh Stadium,S Ravi,SK Tarapore
+156,2010,Kolkata,07-04-2010,KKR,DD,KKR,bat,normal,0,KKR,14,0,SC Ganguly,Eden Gardens,BG Jerling,RE Koertzen
+157,2010,Bangalore,08-04-2010,RCB,DC,DC,field,normal,0,DC,0,7,TL Suman,M Chinnaswamy Stadium,S Asnani,DJ HaRPSer
+158,2010,Chandigarh,09-04-2010,MI,KXIP,MI,bat,normal,0,KXIP,0,6,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali",M Erasmus,AM Saheba
+159,2010,Nagpur,10-04-2010,CSK,DC,CSK,bat,normal,0,DC,0,6,RJ Harris,"Vidarbha Cricket Association Stadium, Jamtha",HDPK Dharmasena,SJA Taufel
+160,2010,Bangalore,10-04-2010,KKR,RCB,RCB,field,normal,0,RCB,0,7,R Vinay Kumar,M Chinnaswamy Stadium,K Hariharan,DJ HaRPSer
+161,2010,Delhi,11-04-2010,DD,KXIP,DD,bat,normal,0,KXIP,0,7,PP Chawla,Feroz Shah Kotla,BF Bowden,AM Saheba
+162,2010,Jaipur,11-04-2010,MI,RR,RR,field,normal,0,MI,37,0,SR Tendulkar,Sawai Mansingh Stadium,BR Doctrove,SK Tarapore
+163,2010,Nagpur,12-04-2010,DC,RCB,RCB,field,normal,0,DC,13,0,Harmeet Singh,"Vidarbha Cricket Association Stadium, Jamtha",RE Koertzen,RB Tiffin
+164,2010,Mumbai,13-04-2010,MI,DD,MI,bat,normal,0,MI,39,0,KA Pollard,Brabourne Stadium,S Asnani,DJ HaRPSer
+165,2010,Chennai,13-04-2010,KKR,CSK,KKR,bat,normal,0,CSK,0,9,R Ashwin,"MA Chidambaram Stadium, Chepauk",SS Hazare,SJA Taufel
+166,2010,Jaipur,14-04-2010,RR,RCB,RR,bat,normal,0,RCB,0,5,KP Pietersen,Sawai Mansingh Stadium,BR Doctrove,S Ravi
+167,2010,Chennai,15-04-2010,CSK,DD,CSK,bat,normal,0,DD,0,6,G Gambhir,"MA Chidambaram Stadium, Chepauk",HDPK Dharmasena,SS Hazare
+168,2010,Dharamsala,16-04-2010,KXIP,DC,DC,field,normal,0,DC,0,5,RG Sharma,Himachal Pradesh Cricket Association Stadium,M Erasmus,AM Saheba
+169,2010,Bangalore,17-04-2010,MI,RCB,RCB,field,normal,0,MI,57,0,R McLaren,M Chinnaswamy Stadium,HDPK Dharmasena,SJA Taufel
+170,2010,Kolkata,17-04-2010,RR,KKR,RR,bat,normal,0,KKR,0,8,JD Unadkat,Eden Gardens,BG Jerling,RB Tiffin
+171,2010,Dharamsala,18-04-2010,KXIP,CSK,CSK,field,normal,0,CSK,0,6,MS Dhoni,Himachal Pradesh Cricket Association Stadium,BF Bowden,AM Saheba
+172,2010,Delhi,18-04-2010,DC,DD,DC,bat,normal,0,DC,11,0,A Symonds,Feroz Shah Kotla,BR Doctrove,SK Tarapore
+173,2010,Kolkata,19-04-2010,MI,KKR,MI,bat,normal,0,KKR,0,9,M Kartik,Eden Gardens,BG Jerling,RE Koertzen
+174,2010,Mumbai,21-04-2010,MI,RCB,MI,bat,normal,0,MI,35,0,KA Pollard,Dr DY Patil Sports Academy,BR Doctrove,RB Tiffin
+175,2010,Mumbai,22-04-2010,CSK,DC,CSK,bat,normal,0,CSK,38,0,DE Bollinger,Dr DY Patil Sports Academy,BR Doctrove,RB Tiffin
+176,2010,Mumbai,24-04-2010,DC,RCB,DC,bat,normal,0,RCB,0,9,A Kumble,Dr DY Patil Sports Academy,RE Koertzen,SJA Taufel
+177,2010,Mumbai,25-04-2010,CSK,MI,CSK,bat,normal,0,CSK,22,0,SK Raina,Dr DY Patil Sports Academy,RE Koertzen,SJA Taufel
+178,2011,Chennai,08-04-2011,CSK,KKR,CSK,bat,normal,0,CSK,2,0,S Anirudha,"MA Chidambaram Stadium, Chepauk",BR Doctrove,PR Reiffel
+179,2011,Hyderabad,09-04-2011,DC,RR,RR,field,normal,0,RR,0,8,SK Trivedi,"Rajiv Gandhi International Stadium, Uppal",RE Koertzen,SK Tarapore
+180,2011,Delhi,10-04-2011,DD,MI,DD,bat,normal,0,MI,0,8,SL Malinga,Feroz Shah Kotla,AM Saheba,RB Tiffin
+181,2011,Mumbai,10-04-2011,KXIP,PW,KXIP,bat,normal,0,PW,0,7,SB Wagh,Dr DY Patil Sports Academy,BR Doctrove,PR Reiffel
+182,2011,Kolkata,11-04-2011,KKR,DC,KKR,bat,normal,0,KKR,9,0,JH Kallis,Eden Gardens,RE Koertzen,SK Tarapore
+183,2011,Jaipur,12-04-2011,DD,RR,DD,bat,normal,0,RR,0,6,SK Warne,Sawai Mansingh Stadium,Aleem Dar,RB Tiffin
+184,2011,Bangalore,12-04-2011,RCB,MI,MI,field,normal,0,MI,0,9,SR Tendulkar,M Chinnaswamy Stadium,HDPK Dharmasena,AL Hill
+185,2011,Chandigarh,13-04-2011,CSK,KXIP,KXIP,field,normal,0,KXIP,0,6,PC Valthaty,"Punjab Cricket Association Stadium, Mohali",Asad Rauf,SL Shastri
+186,2011,Hyderabad,14-04-2011,DC,RCB,RCB,field,normal,0,DC,33,0,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",RE Koertzen,S Ravi
+187,2011,Jaipur,15-04-2011,RR,KKR,KKR,field,normal,0,KKR,0,9,G Gambhir,Sawai Mansingh Stadium,Aleem Dar,SS Hazare
+188,2011,Chennai,16-04-2011,CSK,RCB,CSK,bat,normal,0,CSK,21,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk",HDPK Dharmasena,AL Hill
+189,2011,Hyderabad,16-04-2011,DC,KXIP,KXIP,field,normal,0,KXIP,0,8,PC Valthaty,"Rajiv Gandhi International Stadium, Uppal",RE Koertzen,S Ravi
+190,2011,Mumbai,17-04-2011,PW,DD,DD,field,normal,0,DD,0,3,Yuvraj Singh,Dr DY Patil Sports Academy,Asad Rauf,AM Saheba
+191,2011,Kolkata,17-04-2011,RR,KKR,KKR,field,normal,0,KKR,0,8,L Balaji,Eden Gardens,Aleem Dar,RB Tiffin
+192,2011,Delhi,19-04-2011,DC,DD,DC,bat,normal,0,DC,16,0,S Sohal,Feroz Shah Kotla,PR Reiffel,RJ Tucker
+193,2011,Mumbai,20-04-2011,PW,MI,PW,bat,normal,0,MI,0,7,MM Patel,Wankhede Stadium,Asad Rauf,AM Saheba
+194,2011,Chandigarh,21-04-2011,KXIP,RR,RR,field,normal,0,KXIP,48,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali",S Asnani,PR Reiffel
+195,2011,Mumbai,22-04-2011,MI,CSK,CSK,field,normal,0,MI,8,0,Harbhajan Singh,Wankhede Stadium,Asad Rauf,AM Saheba
+196,2011,Kolkata,22-04-2011,KKR,RCB,RCB,field,normal,0,RCB,0,9,CH Gayle,Eden Gardens,SS Hazare,RB Tiffin
+197,2011,Delhi,23-04-2011,DD,KXIP,KXIP,field,normal,0,DD,29,0,DA Warner,Feroz Shah Kotla,S Asnani,RE Koertzen
+198,2011,Hyderabad,24-04-2011,MI,DC,DC,field,normal,0,MI,37,0,SL Malinga,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,AL Hill
+199,2011,Chennai,25-04-2011,CSK,PW,PW,field,normal,0,CSK,25,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk",Aleem Dar,RB Tiffin
+200,2011,Delhi,26-04-2011,DD,RCB,RCB,field,normal,0,RCB,0,3,V Kohli,Feroz Shah Kotla,S Asnani,RJ Tucker
+201,2011,Mumbai,27-04-2011,PW,CSK,PW,bat,normal,0,CSK,0,8,DE Bollinger,Dr DY Patil Sports Academy,Asad Rauf,SL Shastri
+202,2011,Delhi,28-04-2011,KKR,DD,DD,field,normal,0,KKR,17,0,MK Tiwary,Feroz Shah Kotla,PR Reiffel,RJ Tucker
+203,2011,Jaipur,29-04-2011,MI,RR,RR,field,normal,0,RR,0,7,J Botha,Sawai Mansingh Stadium,Asad Rauf,SK Tarapore
+204,2011,Bangalore,29-04-2011,RCB,PW,PW,field,normal,0,RCB,26,0,V Kohli,M Chinnaswamy Stadium,Aleem Dar,SS Hazare
+205,2011,Kolkata,30-04-2011,KXIP,KKR,KKR,field,normal,0,KKR,0,8,Iqbal Abdulla,Eden Gardens,AM Saheba,SL Shastri
+206,2011,Jaipur,01-05-2011,PW,RR,RR,field,normal,0,RR,0,6,LRPSL Taylor,Sawai Mansingh Stadium,SK Tarapore,SJA Taufel
+207,2011,Chennai,01-05-2011,CSK,DC,CSK,bat,normal,0,CSK,19,0,JA Morkel,"MA Chidambaram Stadium, Chepauk",Aleem Dar,RB Tiffin
+208,2011,Mumbai,02-05-2011,MI,KXIP,KXIP,field,normal,0,MI,23,0,KA Pollard,Wankhede Stadium,HDPK Dharmasena,PR Reiffel
+209,2011,Hyderabad,03-05-2011,KKR,DC,DC,field,normal,0,KKR,20,0,YK Pathan,"Rajiv Gandhi International Stadium, Uppal",S Asnani,RJ Tucker
+210,2011,Chennai,04-05-2011,RR,CSK,RR,bat,normal,0,CSK,0,8,MEK Hussey,"MA Chidambaram Stadium, Chepauk",SS Hazare,RB Tiffin
+211,2011,Mumbai,04-05-2011,MI,PW,PW,field,normal,0,MI,21,0,R Sharma,Dr DY Patil Sports Academy,HDPK Dharmasena,SJA Taufel
+212,2011,Hyderabad,05-05-2011,DC,DD,DD,field,normal,0,DD,0,4,V Sehwag,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,AM Saheba
+213,2011,Bangalore,06-05-2011,RCB,KXIP,KXIP,field,normal,0,RCB,85,0,CH Gayle,M Chinnaswamy Stadium,Aleem Dar,RB Tiffin
+214,2011,Kolkata,07-05-2011,CSK,KKR,CSK,bat,normal,1,KKR,10,0,Iqbal Abdulla,Eden Gardens,Asad Rauf,PR Reiffel
+215,2011,Mumbai,07-05-2011,MI,DD,DD,field,normal,0,MI,32,0,AT Rayudu,Wankhede Stadium,K Hariharan,SJA Taufel
+216,2011,Chandigarh,08-05-2011,KXIP,PW,KXIP,bat,normal,0,PW,0,5,R Sharma,"Punjab Cricket Association Stadium, Mohali",SK Tarapore,RJ Tucker
+217,2011,Jaipur,09-05-2011,CSK,RR,RR,field,normal,0,CSK,63,0,M Vijay,Sawai Mansingh Stadium,K Hariharan,SJA Taufel
+218,2011,Hyderabad,10-05-2011,DC,PW,DC,bat,normal,0,PW,0,6,MR Marsh,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,AM Saheba
+219,2011,Chandigarh,10-05-2011,KXIP,MI,MI,field,normal,0,KXIP,76,0,BA Bhatt,"Punjab Cricket Association Stadium, Mohali",SK Tarapore,RJ Tucker
+220,2011,Jaipur,11-05-2011,RR,RCB,RCB,field,normal,0,RCB,0,9,S Aravind,Sawai Mansingh Stadium,HDPK Dharmasena,K Hariharan
+221,2011,Chennai,12-05-2011,CSK,DD,CSK,bat,normal,0,CSK,18,0,MS Dhoni,"MA Chidambaram Stadium, Chepauk",AM Saheba,SL Shastri
+222,2011,Bangalore,14-05-2011,KKR,RCB,RCB,field,normal,1,RCB,0,4,CH Gayle,M Chinnaswamy Stadium,RE Koertzen,RB Tiffin
+223,2011,Mumbai,14-05-2011,DC,MI,DC,bat,normal,0,DC,10,0,A Mishra,Wankhede Stadium,S Ravi,SK Tarapore
+224,2011,Dharamsala,15-05-2011,KXIP,DD,DD,field,normal,0,KXIP,29,0,PP Chawla,Himachal Pradesh Cricket Association Stadium,Asad Rauf,SL Shastri
+225,2011,Mumbai,16-05-2011,PW,DC,DC,field,normal,0,DC,0,6,A Mishra,Dr DY Patil Sports Academy,S Ravi,SK Tarapore
+226,2011,Dharamsala,17-05-2011,KXIP,RCB,KXIP,bat,normal,0,KXIP,111,0,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,Asad Rauf,AM Saheba
+227,2011,Mumbai,19-05-2011,PW,KKR,KKR,field,normal,0,KKR,0,7,YK Pathan,Dr DY Patil Sports Academy,S Ravi,SJA Taufel
+228,2011,Mumbai,20-05-2011,MI,RR,MI,bat,normal,0,RR,0,10,SR Watson,Wankhede Stadium,RE Koertzen,PR Reiffel
+229,2011,Dharamsala,21-05-2011,DC,KXIP,KXIP,field,normal,0,DC,82,0,S Dhawan,Himachal Pradesh Cricket Association Stadium,Asad Rauf,AM Saheba
+230,2011,Delhi,21-05-2011,DD,PW,DD,bat,no result,0,,0,0,,Feroz Shah Kotla,SS Hazare,RJ Tucker
+231,2011,Bangalore,22-05-2011,CSK,RCB,RCB,field,normal,0,RCB,0,8,CH Gayle,M Chinnaswamy Stadium,K Hariharan,RE Koertzen
+232,2011,Kolkata,22-05-2011,KKR,MI,MI,field,normal,0,MI,0,5,JEC Franklin,Eden Gardens,SK Tarapore,SJA Taufel
+233,2011,Mumbai,24-05-2011,RCB,CSK,CSK,field,normal,0,CSK,0,6,SK Raina,Wankhede Stadium,Asad Rauf,SJA Taufel
+234,2011,Mumbai,25-05-2011,KKR,MI,MI,field,normal,0,MI,0,4,MM Patel,Wankhede Stadium,Asad Rauf,SJA Taufel
+235,2011,Chennai,27-05-2011,RCB,MI,MI,field,normal,0,RCB,43,0,CH Gayle,"MA Chidambaram Stadium, Chepauk",Asad Rauf,SJA Taufel
+236,2011,Chennai,28-05-2011,CSK,RCB,CSK,bat,normal,0,CSK,58,0,M Vijay,"MA Chidambaram Stadium, Chepauk",Asad Rauf,SJA Taufel
+237,2012,Chennai,04-04-2012,CSK,MI,MI,field,normal,0,MI,0,8,RE Levi,"MA Chidambaram Stadium, Chepauk",JD Cloete,SJA Taufel
+238,2012,Kolkata,05-04-2012,KKR,DD,DD,field,normal,0,DD,0,8,IK Pathan,Eden Gardens,S Asnani,HDPK Dharmasena
+239,2012,Mumbai,06-04-2012,PW,MI,MI,field,normal,0,PW,28,0,SPD Smith,Wankhede Stadium,AK Chaudhary,SJA Taufel
+240,2012,Jaipur,06-04-2012,RR,KXIP,KXIP,field,normal,0,RR,31,0,AM Rahane,Sawai Mansingh Stadium,BF Bowden,SK Tarapore
+241,2012,Bangalore,07-04-2012,RCB,DD,DD,field,normal,0,RCB,20,0,AB de Villiers,M Chinnaswamy Stadium,S Asnani,S Ravi
+242,2012,Visakhapatnam,07-04-2012,CSK,DC,DC,field,normal,0,CSK,74,0,RA Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,JD Cloete,HDPK Dharmasena
+243,2012,Jaipur,08-04-2012,RR,KKR,KKR,field,normal,0,RR,22,0,BJ Hodge,Sawai Mansingh Stadium,BF Bowden,VA Kulkarni
+244,2012,Pune,08-04-2012,PW,KXIP,PW,bat,normal,0,PW,22,0,MN Samuels,Subrata Roy Sahara Stadium,S Das,SJA Taufel
+245,2012,Visakhapatnam,09-04-2012,DC,MI,DC,bat,normal,0,MI,0,5,RG Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,AK Chaudhary,JD Cloete
+246,2012,Bangalore,10-04-2012,KKR,RCB,RCB,field,normal,0,KKR,42,0,L Balaji,M Chinnaswamy Stadium,S Ravi,RJ Tucker
+247,2012,Delhi,10-04-2012,CSK,DD,DD,field,normal,0,DD,0,8,M Morkel,Feroz Shah Kotla,Asad Rauf,SK Tarapore
+248,2012,Mumbai,11-04-2012,MI,RR,RR,field,normal,0,MI,27,0,KA Pollard,Wankhede Stadium,Aleem Dar,BNJ Oxenford
+249,2012,Chennai,12-04-2012,RCB,CSK,RCB,bat,normal,0,CSK,0,5,F du Plessis,"MA Chidambaram Stadium, Chepauk",HDPK Dharmasena,RJ Tucker
+250,2012,Chandigarh,12-04-2012,PW,KXIP,KXIP,field,normal,0,KXIP,0,7,AD Mascarenhas,"Punjab Cricket Association Stadium, Mohali",VA Kulkarni,SK Tarapore
+251,2012,Kolkata,13-04-2012,RR,KKR,RR,bat,normal,0,KKR,0,5,Shakib Al Hasan,Eden Gardens,Asad Rauf,S Asnani
+252,2012,Delhi,19-04-2012,DC,DD,DC,bat,normal,0,DD,0,5,KP Pietersen,Feroz Shah Kotla,BF Bowden,SK Tarapore
+253,2012,Pune,14-04-2012,CSK,PW,CSK,bat,normal,0,PW,0,7,JD Ryder,Subrata Roy Sahara Stadium,Aleem Dar,BNJ Oxenford
+254,2012,Kolkata,15-04-2012,KXIP,KKR,KKR,field,normal,0,KXIP,2,0,SP Narine,Eden Gardens,Asad Rauf,S Asnani
+255,2012,Bangalore,15-04-2012,RR,RCB,RR,bat,normal,0,RR,59,0,AM Rahane,M Chinnaswamy Stadium,JD Cloete,RJ Tucker
+256,2012,Mumbai,16-04-2012,MI,DD,DD,field,normal,0,DD,0,7,S Nadeem,Wankhede Stadium,BF Bowden,SK Tarapore
+257,2012,Jaipur,17-04-2012,DC,RR,DC,bat,normal,0,RR,0,5,BJ Hodge,Sawai Mansingh Stadium,Aleem Dar,BNJ Oxenford
+258,2012,Bangalore,17-04-2012,PW,RCB,PW,bat,normal,0,RCB,0,6,CH Gayle,M Chinnaswamy Stadium,S Asnani,S Das
+259,2012,Chandigarh,18-04-2012,KXIP,KKR,KXIP,bat,normal,0,KKR,0,8,G Gambhir,"Punjab Cricket Association Stadium, Mohali",JD Cloete,RJ Tucker
+260,2012,Hyderabad,10-05-2012,DC,DD,DC,bat,normal,0,DD,0,9,DA Warner,"Rajiv Gandhi International Stadium, Uppal",JD Cloete,SJA Taufel
+261,2012,Chennai,19-04-2012,CSK,PW,PW,field,normal,0,CSK,13,0,KMDN Kulasekara,"MA Chidambaram Stadium, Chepauk",Asad Rauf,S Das
+262,2012,Chandigarh,20-04-2012,KXIP,RCB,RCB,field,normal,0,RCB,0,5,CH Gayle,"Punjab Cricket Association Stadium, Mohali",S Ravi,RJ Tucker
+263,2012,Chennai,21-04-2012,RR,CSK,RR,bat,normal,0,CSK,0,7,F du Plessis,"MA Chidambaram Stadium, Chepauk",Aleem Dar,BNJ Oxenford
+264,2012,Delhi,21-04-2012,PW,DD,DD,field,normal,0,PW,20,0,SC Ganguly,Feroz Shah Kotla,Asad Rauf,S Das
+265,2012,Mumbai,22-04-2012,MI,KXIP,MI,bat,normal,0,KXIP,0,6,SE Marsh,Wankhede Stadium,S Ravi,RJ Tucker
+266,2012,Cuttack,22-04-2012,DC,KKR,KKR,field,normal,0,KKR,0,5,B Lee,Barabati Stadium,BF Bowden,SK Tarapore
+267,2012,Jaipur,23-04-2012,RCB,RR,RR,field,normal,0,RCB,46,0,AB de Villiers,Sawai Mansingh Stadium,Asad Rauf,S Asnani
+268,2012,Pune,24-04-2012,PW,DD,PW,bat,normal,0,DD,0,8,V Sehwag,Subrata Roy Sahara Stadium,S Ravi,RJ Tucker
+269,2012,Chandigarh,25-04-2012,KXIP,MI,KXIP,bat,normal,0,MI,0,4,AT Rayudu,"Punjab Cricket Association Stadium, Mohali",Aleem Dar,BNJ Oxenford
+270,2012,Pune,26-04-2012,DC,PW,DC,bat,normal,0,DC,18,0,CL White,Subrata Roy Sahara Stadium,S Ravi,RJ Tucker
+271,2012,Delhi,27-04-2012,DD,MI,MI,field,normal,0,DD,37,0,V Sehwag,Feroz Shah Kotla,Aleem Dar,BNJ Oxenford
+272,2012,Chennai,28-04-2012,KXIP,CSK,KXIP,bat,normal,0,KXIP,7,0,Mandeep Singh,"MA Chidambaram Stadium, Chepauk",BF Bowden,SK Tarapore
+273,2012,Kolkata,28-04-2012,KKR,RCB,KKR,bat,normal,0,KKR,47,0,G Gambhir,Eden Gardens,Asad Rauf,BR Doctrove
+274,2012,Delhi,29-04-2012,DD,RR,DD,bat,normal,0,DD,1,0,V Sehwag,Feroz Shah Kotla,S Ravi,RJ Tucker
+275,2012,Mumbai,29-04-2012,DC,MI,MI,field,normal,0,MI,0,5,DW Steyn,Wankhede Stadium,AK Chaudhary,BNJ Oxenford
+276,2012,Chennai,30-04-2012,CSK,KKR,CSK,bat,normal,0,KKR,0,5,G Gambhir,"MA Chidambaram Stadium, Chepauk",BF Bowden,C Shamshuddin
+277,2012,Cuttack,01-05-2012,DC,PW,DC,bat,normal,0,DC,13,0,KC Sangakkara,Barabati Stadium,Aleem Dar,AK Chaudhary
+278,2012,Jaipur,01-05-2012,RR,DD,RR,bat,normal,0,DD,0,6,P Negi,Sawai Mansingh Stadium,JD Cloete,SJA Taufel
+279,2012,Bangalore,02-05-2012,RCB,KXIP,KXIP,field,normal,0,KXIP,0,4,Azhar Mahmood,M Chinnaswamy Stadium,BF Bowden,C Shamshuddin
+280,2012,Pune,03-05-2012,MI,PW,MI,bat,normal,0,MI,1,0,SL Malinga,Subrata Roy Sahara Stadium,Asad Rauf,S Asnani
+281,2012,Chennai,04-05-2012,CSK,DC,CSK,bat,normal,0,CSK,10,0,SK Raina,"MA Chidambaram Stadium, Chepauk",HDPK Dharmasena,BNJ Oxenford
+282,2012,Kolkata,05-05-2012,KKR,PW,KKR,bat,normal,0,KKR,7,0,SP Narine,Eden Gardens,BF Bowden,SK Tarapore
+283,2012,Chandigarh,05-05-2012,RR,KXIP,RR,bat,normal,0,RR,43,0,SR Watson,"Punjab Cricket Association Stadium, Mohali",JD Cloete,SJA Taufel
+284,2012,Mumbai,06-05-2012,CSK,MI,MI,field,normal,0,MI,0,2,DR Smith,Wankhede Stadium,Asad Rauf,S Asnani
+285,2012,Bangalore,06-05-2012,DC,RCB,RCB,field,normal,0,RCB,0,5,AB de Villiers,M Chinnaswamy Stadium,HDPK Dharmasena,BNJ Oxenford
+286,2012,Delhi,07-05-2012,DD,KKR,DD,bat,normal,0,KKR,0,6,JH Kallis,Feroz Shah Kotla,JD Cloete,S Ravi
+287,2012,Pune,08-05-2012,PW,RR,PW,bat,normal,0,RR,0,7,SR Watson,Subrata Roy Sahara Stadium,Asad Rauf,BR Doctrove
+288,2012,Hyderabad,08-05-2012,KXIP,DC,DC,field,normal,0,KXIP,25,0,Mandeep Singh,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,BNJ Oxenford
+289,2012,Mumbai,09-05-2012,MI,RCB,RCB,field,normal,0,RCB,0,9,CH Gayle,Wankhede Stadium,BF Bowden,VA Kulkarni
+290,2012,Jaipur,10-05-2012,RR,CSK,CSK,field,normal,0,CSK,0,4,BW Hilfenhaus,Sawai Mansingh Stadium,BNJ Oxenford,C Shamshuddin
+291,2012,Pune,11-05-2012,RCB,PW,PW,field,normal,0,RCB,35,0,CH Gayle,Subrata Roy Sahara Stadium,BF Bowden,SK Tarapore
+292,2012,Kolkata,12-05-2012,MI,KKR,MI,bat,normal,0,MI,27,0,RG Sharma,Eden Gardens,S Ravi,SJA Taufel
+293,2012,Chennai,12-05-2012,DD,CSK,CSK,field,normal,0,CSK,0,9,BW Hilfenhaus,"MA Chidambaram Stadium, Chepauk",S Das,BR Doctrove
+294,2012,Jaipur,13-05-2012,RR,PW,RR,bat,normal,0,RR,45,0,A Chandila,Sawai Mansingh Stadium,BF Bowden,SK Tarapore
+295,2012,Chandigarh,13-05-2012,DC,KXIP,DC,bat,normal,0,KXIP,0,4,DJ Hussey,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,BNJ Oxenford
+296,2012,Bangalore,14-05-2012,RCB,MI,MI,field,normal,0,MI,0,5,AT Rayudu,M Chinnaswamy Stadium,S Das,BR Doctrove
+297,2012,Kolkata,14-05-2012,KKR,CSK,CSK,field,normal,0,CSK,0,5,MEK Hussey,Eden Gardens,JD Cloete,SJA Taufel
+298,2012,Delhi,15-05-2012,KXIP,DD,KXIP,bat,normal,0,DD,0,5,UT Yadav,Feroz Shah Kotla,HDPK Dharmasena,BNJ Oxenford
+299,2012,Mumbai,16-05-2012,KKR,MI,MI,field,normal,0,KKR,32,0,SP Narine,Wankhede Stadium,S Das,BR Doctrove
+300,2012,Dharamsala,17-05-2012,CSK,KXIP,KXIP,field,normal,0,KXIP,0,6,AC Gilchrist,Himachal Pradesh Cricket Association Stadium,VA Kulkarni,SK Tarapore
+301,2012,Delhi,17-05-2012,RCB,DD,DD,field,normal,0,RCB,21,0,CH Gayle,Feroz Shah Kotla,HDPK Dharmasena,C Shamshuddin
+302,2012,Hyderabad,18-05-2012,RR,DC,RR,bat,normal,0,DC,0,5,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",S Ravi,SJA Taufel
+303,2012,Dharamsala,19-05-2012,KXIP,DD,DD,field,normal,0,DD,0,6,UT Yadav,Himachal Pradesh Cricket Association Stadium,BF Bowden,VA Kulkarni
+304,2012,Pune,19-05-2012,KKR,PW,KKR,bat,normal,0,KKR,34,0,Shakib Al Hasan,Subrata Roy Sahara Stadium,S Asnani,BR Doctrove
+305,2012,Hyderabad,20-05-2012,DC,RCB,RCB,field,normal,0,DC,9,0,DW Steyn,"Rajiv Gandhi International Stadium, Uppal",S Ravi,SJA Taufel
+306,2012,Jaipur,20-05-2012,RR,MI,RR,bat,normal,0,MI,0,10,DR Smith,Sawai Mansingh Stadium,HDPK Dharmasena,C Shamshuddin
+307,2012,Pune,22-05-2012,KKR,DD,KKR,bat,normal,0,KKR,18,0,YK Pathan,Subrata Roy Sahara Stadium,BR Doctrove,SJA Taufel
+308,2012,Bangalore,23-05-2012,CSK,MI,MI,field,normal,0,CSK,38,0,MS Dhoni,M Chinnaswamy Stadium,BF Bowden,HDPK Dharmasena
+309,2012,Chennai,25-05-2012,CSK,DD,DD,field,normal,0,CSK,86,0,M Vijay,"MA Chidambaram Stadium, Chepauk",BR Doctrove,SJA Taufel
+310,2012,Chennai,27-05-2012,CSK,KKR,CSK,bat,normal,0,KKR,0,5,MS Bisla,"MA Chidambaram Stadium, Chepauk",BF Bowden,SJA Taufel
+311,2013,Kolkata,03-04-2013,DD,KKR,KKR,field,normal,0,KKR,0,6,SP Narine,Eden Gardens,S Ravi,SJA Taufel
+312,2013,Bangalore,04-04-2013,RCB,MI,MI,field,normal,0,RCB,2,0,CH Gayle,M Chinnaswamy Stadium,VA Kulkarni,C Shamshuddin
+313,2013,Hyderabad,05-04-2013,SRH,PW,PW,field,normal,0,SRH,22,0,A Mishra,"Rajiv Gandhi International Stadium, Uppal",S Ravi,SJA Taufel
+314,2013,Delhi,06-04-2013,RR,DD,RR,bat,normal,0,RR,5,0,R Dravid,Feroz Shah Kotla,S Das,C Shamshuddin
+315,2013,Chennai,06-04-2013,MI,CSK,MI,bat,normal,0,MI,9,0,KA Pollard,"MA Chidambaram Stadium, Chepauk",M Erasmus,VA Kulkarni
+316,2013,Pune,07-04-2013,PW,KXIP,PW,bat,normal,0,KXIP,0,8,M Vohra,Subrata Roy Sahara Stadium,S Asnani,SJA Taufel
+317,2013,Hyderabad,07-04-2013,RCB,SRH,RCB,bat,tie,0,SRH,0,0,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,S Ravi
+318,2013,Jaipur,08-04-2013,RR,KKR,KKR,field,normal,0,RR,19,0,SK Trivedi,Sawai Mansingh Stadium,Aleem Dar,S Das
+319,2013,Mumbai,09-04-2013,MI,DD,MI,bat,normal,0,MI,44,0,KD Karthik,Wankhede Stadium,M Erasmus,VA Kulkarni
+320,2013,Chandigarh,10-04-2013,KXIP,CSK,CSK,field,normal,0,CSK,0,10,MEK Hussey,"Punjab Cricket Association Stadium, Mohali",Aleem Dar,C Shamshuddin
+321,2013,Bangalore,11-04-2013,KKR,RCB,RCB,field,normal,0,RCB,0,8,CH Gayle,M Chinnaswamy Stadium,Asad Rauf,AK Chaudhary
+322,2013,Pune,11-04-2013,RR,PW,RR,bat,normal,0,PW,0,7,AJ Finch,Subrata Roy Sahara Stadium,M Erasmus,K Srinath
+323,2013,Delhi,12-04-2013,DD,SRH,DD,bat,normal,0,SRH,0,3,A Mishra,Feroz Shah Kotla,Aleem Dar,Subroto Das
+324,2013,Mumbai,13-04-2013,MI,PW,MI,bat,normal,0,MI,41,0,RG Sharma,Wankhede Stadium,S Ravi,SJA Taufel
+325,2013,Chennai,13-04-2013,RCB,CSK,CSK,field,normal,0,CSK,0,4,RA Jadeja,"MA Chidambaram Stadium, Chepauk",Asad Rauf,AK Chaudhary
+326,2013,Kolkata,14-04-2013,KKR,SRH,KKR,bat,normal,0,KKR,48,0,G Gambhir,Eden Gardens,M Erasmus,VA Kulkarni
+327,2013,Jaipur,14-04-2013,KXIP,RR,RR,field,normal,0,RR,0,6,JP Faulkner,Sawai Mansingh Stadium,Aleem Dar,C Shamshuddin
+328,2013,Chennai,15-04-2013,PW,CSK,PW,bat,normal,0,PW,24,0,SPD Smith,"MA Chidambaram Stadium, Chepauk",Asad Rauf,AK Chaudhary
+329,2013,Chandigarh,16-04-2013,KXIP,KKR,KKR,field,normal,0,KXIP,4,0,MS Gony,"Punjab Cricket Association Stadium, Mohali",CK Nandan,SJA Taufel
+330,2013,Bangalore,16-04-2013,DD,RCB,RCB,field,tie,0,RCB,0,0,V Kohli,M Chinnaswamy Stadium,M Erasmus,VA Kulkarni
+331,2013,Pune,17-04-2013,SRH,PW,PW,field,normal,0,SRH,11,0,A Mishra,Subrata Roy Sahara Stadium,Asad Rauf,AK Chaudhary
+332,2013,Jaipur,17-04-2013,RR,MI,RR,bat,normal,0,RR,87,0,AM Rahane,Sawai Mansingh Stadium,Aleem Dar,C Shamshuddin
+333,2013,Delhi,18-04-2013,CSK,DD,CSK,bat,normal,0,CSK,86,0,MEK Hussey,Feroz Shah Kotla,M Erasmus,VA Kulkarni
+334,2013,Hyderabad,19-04-2013,KXIP,SRH,KXIP,bat,normal,0,SRH,0,5,GH Vihari,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,CK Nandan
+335,2013,Kolkata,20-04-2013,KKR,CSK,KKR,bat,normal,0,CSK,0,4,RA Jadeja,Eden Gardens,Asad Rauf,AK Chaudhary
+336,2013,Bangalore,20-04-2013,RR,RCB,RCB,field,normal,0,RCB,0,7,R Vinay Kumar,M Chinnaswamy Stadium,Aleem Dar,C Shamshuddin
+337,2013,Delhi,21-04-2013,MI,DD,MI,bat,normal,0,DD,0,9,V Sehwag,Feroz Shah Kotla,HDPK Dharmasena,S Ravi
+338,2013,Chandigarh,21-04-2013,PW,KXIP,KXIP,field,normal,0,KXIP,0,7,DA Miller,"Punjab Cricket Association Stadium, Mohali",M Erasmus,K Srinath
+339,2013,Chennai,22-04-2013,RR,CSK,RR,bat,normal,0,CSK,0,5,MEK Hussey,"MA Chidambaram Stadium, Chepauk",S Asnani,AK Chaudhary
+340,2013,Bangalore,23-04-2013,RCB,PW,PW,field,normal,0,RCB,130,0,CH Gayle,M Chinnaswamy Stadium,Aleem Dar,C Shamshuddin
+341,2013,Dharamsala,16-05-2013,KXIP,DD,DD,field,normal,0,KXIP,7,0,DA Miller,Himachal Pradesh Cricket Association Stadium,HDPK Dharmasena,S Ravi
+342,2013,Kolkata,24-04-2013,KKR,MI,KKR,bat,normal,0,MI,0,5,DR Smith,Eden Gardens,HDPK Dharmasena,S Ravi
+343,2013,Chennai,25-04-2013,SRH,CSK,SRH,bat,normal,0,CSK,0,5,MS Dhoni,"MA Chidambaram Stadium, Chepauk",Aleem Dar,S Das
+344,2013,Kolkata,26-04-2013,KXIP,KKR,KXIP,bat,normal,0,KKR,0,6,JH Kallis,Eden Gardens,CK Nandan,S Ravi
+345,2013,Jaipur,27-04-2013,SRH,RR,SRH,bat,normal,0,RR,0,8,JP Faulkner,Sawai Mansingh Stadium,VA Kulkarni,K Srinath
+346,2013,Mumbai,27-04-2013,MI,RCB,MI,bat,normal,0,MI,58,0,DR Smith,Wankhede Stadium,Asad Rauf,S Asnani
+347,2013,Chennai,28-04-2013,CSK,KKR,KKR,field,normal,0,CSK,14,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk",Aleem Dar,SJA Taufel
+348,2013,Raipur,28-04-2013,DD,PW,PW,field,normal,0,DD,15,0,DA Warner,Shaheed Veer Narayan Singh International Stadium,CK Nandan,S Ravi
+349,2013,Jaipur,29-04-2013,RCB,RR,RR,field,normal,0,RR,0,4,SV Samson,Sawai Mansingh Stadium,M Erasmus,K Srinath
+350,2013,Mumbai,29-04-2013,MI,KXIP,MI,bat,normal,0,MI,4,0,RG Sharma,Wankhede Stadium,Asad Rauf,AK Chaudhary
+351,2013,Pune,30-04-2013,CSK,PW,CSK,bat,normal,0,CSK,37,0,MS Dhoni,Subrata Roy Sahara Stadium,S Das,SJA Taufel
+352,2013,Hyderabad,01-05-2013,MI,SRH,MI,bat,normal,0,SRH,0,7,I Sharma,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,S Asnani
+353,2013,Raipur,01-05-2013,KKR,DD,KKR,bat,normal,0,DD,0,7,DA Warner,Shaheed Veer Narayan Singh International Stadium,HDPK Dharmasena,CK Nandan
+354,2013,Chennai,02-05-2013,CSK,KXIP,CSK,bat,normal,0,CSK,15,0,SK Raina,"MA Chidambaram Stadium, Chepauk",M Erasmus,VA Kulkarni
+355,2013,Pune,02-05-2013,RCB,PW,RCB,bat,normal,0,RCB,17,0,AB de Villiers,Subrata Roy Sahara Stadium,Aleem Dar,C Shamshuddin
+356,2013,Kolkata,03-05-2013,RR,KKR,RR,bat,normal,0,KKR,0,8,YK Pathan,Eden Gardens,HDPK Dharmasena,CK Nandan
+357,2013,Hyderabad,04-05-2013,DD,SRH,DD,bat,normal,0,SRH,0,6,DJG Sammy,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,S Asnani
+358,2013,Bangalore,14-05-2013,RCB,KXIP,KXIP,field,normal,0,KXIP,0,7,AC Gilchrist,M Chinnaswamy Stadium,HDPK Dharmasena,S Ravi
+359,2013,Mumbai,05-05-2013,MI,CSK,MI,bat,normal,0,MI,60,0,MG Johnson,Wankhede Stadium,HDPK Dharmasena,CK Nandan
+360,2013,Jaipur,05-05-2013,PW,RR,PW,bat,normal,0,RR,0,5,AM Rahane,Sawai Mansingh Stadium,C Shamshuddin,RJ Tucker
+361,2013,Bangalore,09-04-2013,SRH,RCB,SRH,bat,normal,0,RCB,0,7,V Kohli,M Chinnaswamy Stadium,S Ravi,SJA Taufel
+362,2013,Jaipur,07-05-2013,DD,RR,DD,bat,normal,0,RR,0,9,AM Rahane,Sawai Mansingh Stadium,Aleem Dar,RJ Tucker
+363,2013,Mumbai,07-05-2013,MI,KKR,MI,bat,normal,0,MI,65,0,SR Tendulkar,Wankhede Stadium,HDPK Dharmasena,S Ravi
+364,2013,Hyderabad,08-05-2013,CSK,SRH,SRH,field,normal,0,CSK,77,0,SK Raina,"Rajiv Gandhi International Stadium, Uppal",S Das,NJ Llong
+365,2013,Chandigarh,09-05-2013,KXIP,RR,RR,field,normal,0,RR,0,8,KK Cooper,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,S Ravi
+366,2013,Pune,09-05-2013,KKR,PW,KKR,bat,normal,0,KKR,46,0,G Gambhir,Subrata Roy Sahara Stadium,Asad Rauf,S Asnani
+367,2013,Delhi,10-05-2013,RCB,DD,DD,field,normal,0,RCB,4,0,JD Unadkat,Feroz Shah Kotla,NJ Llong,K Srinath
+368,2013,Pune,11-05-2013,PW,MI,PW,bat,normal,0,MI,0,5,MG Johnson,Subrata Roy Sahara Stadium,Asad Rauf,AK Chaudhary
+369,2013,Chandigarh,11-05-2013,SRH,KXIP,KXIP,field,normal,0,SRH,30,0,PA Patel,"Punjab Cricket Association Stadium, Mohali",S Das,RJ Tucker
+370,2013,Ranchi,12-05-2013,RCB,KKR,KKR,field,normal,0,KKR,0,5,JH Kallis,JSCA International Stadium Complex,NJ Llong,K Srinath
+371,2013,Jaipur,12-05-2013,CSK,RR,RR,field,normal,0,RR,0,5,SR Watson,Sawai Mansingh Stadium,HDPK Dharmasena,CK Nandan
+372,2013,Delhi,23-04-2013,DD,KXIP,KXIP,field,normal,0,KXIP,0,5,Harmeet Singh,Feroz Shah Kotla,VA Kulkarni,K Srinath
+373,2013,Mumbai,13-05-2013,SRH,MI,SRH,bat,normal,0,MI,0,7,KA Pollard,Wankhede Stadium,AK Chaudhary,SJA Taufel
+374,2013,Ranchi,15-05-2013,PW,KKR,KKR,field,normal,0,PW,7,0,MK Pandey,JSCA International Stadium Complex,NJ Llong,K Srinath
+375,2013,Chennai,14-05-2013,CSK,DD,CSK,bat,normal,0,CSK,33,0,MS Dhoni,"MA Chidambaram Stadium, Chepauk",C Shamshuddin,RJ Tucker
+376,2013,Mumbai,15-05-2013,MI,RR,RR,field,normal,0,MI,14,0,AP Tare,Wankhede Stadium,Asad Rauf,S Asnani
+377,2013,Chandigarh,06-05-2013,RCB,KXIP,KXIP,field,normal,0,KXIP,0,6,DA Miller,"Punjab Cricket Association Stadium, Mohali",VA Kulkarni,NJ Llong
+378,2013,Hyderabad,17-05-2013,SRH,RR,SRH,bat,normal,0,SRH,23,0,A Mishra,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,AK Chaudhary
+379,2013,Dharamsala,18-05-2013,KXIP,MI,MI,field,normal,0,KXIP,50,0,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium,HDPK Dharmasena,CK Nandan
+380,2013,Pune,19-05-2013,PW,DD,PW,bat,normal,0,PW,38,0,LJ Wright,Subrata Roy Sahara Stadium,NJ Llong,SJA Taufel
+381,2013,Bangalore,18-05-2013,RCB,CSK,CSK,field,normal,0,RCB,24,0,V Kohli,M Chinnaswamy Stadium,C Shamshuddin,RJ Tucker
+382,2013,Hyderabad,19-05-2013,KKR,SRH,KKR,bat,normal,0,SRH,0,5,PA Patel,"Rajiv Gandhi International Stadium, Uppal",Asad Rauf,S Asnani
+383,2013,Delhi,21-05-2013,CSK,MI,CSK,bat,normal,0,CSK,48,0,MEK Hussey,Feroz Shah Kotla,NJ Llong,RJ Tucker
+384,2013,Delhi,22-05-2013,SRH,RR,SRH,bat,normal,0,RR,0,4,BJ Hodge,Feroz Shah Kotla,S Ravi,RJ Tucker
+385,2013,Kolkata,24-05-2013,RR,MI,RR,bat,normal,0,MI,0,4,Harbhajan Singh,Eden Gardens,C Shamshuddin,SJA Taufel
+386,2013,Kolkata,26-05-2013,MI,CSK,MI,bat,normal,0,MI,23,0,KA Pollard,Eden Gardens,HDPK Dharmasena,SJA Taufel
+387,2014,Abu Dhabi,16-04-2014,KKR,MI,KKR,bat,normal,0,KKR,41,0,JH Kallis,Sheikh Zayed Stadium,M Erasmus,RK Illingworth
+388,2014,Sharjah,17-04-2014,DD,RCB,RCB,field,normal,0,RCB,0,8,YS Chahal,Sharjah Cricket Stadium,Aleem Dar,S Ravi
+389,2014,Abu Dhabi,18-04-2014,CSK,KXIP,CSK,bat,normal,0,KXIP,0,6,GJ Maxwell,Sheikh Zayed Stadium,RK Illingworth,C Shamshuddin
+390,2014,Abu Dhabi,18-04-2014,SRH,RR,RR,field,normal,0,RR,0,4,AM Rahane,Sheikh Zayed Stadium,BF Bowden,RK Illingworth
+391,2014,,19-04-2014,MI,RCB,RCB,field,normal,0,RCB,0,7,PA Patel,Dubai International Cricket Stadium,Aleem Dar,AK Chaudhary
+392,2014,,19-04-2014,KKR,DD,KKR,bat,normal,0,DD,0,4,JP Duminy,Dubai International Cricket Stadium,Aleem Dar,VA Kulkarni
+393,2014,Sharjah,20-04-2014,RR,KXIP,KXIP,field,normal,0,KXIP,0,7,GJ Maxwell,Sharjah Cricket Stadium,BF Bowden,M Erasmus
+394,2014,Abu Dhabi,21-04-2014,CSK,DD,CSK,bat,normal,0,CSK,93,0,SK Raina,Sheikh Zayed Stadium,RK Illingworth,C Shamshuddin
+395,2014,Sharjah,22-04-2014,KXIP,SRH,SRH,field,normal,0,KXIP,72,0,GJ Maxwell,Sharjah Cricket Stadium,M Erasmus,S Ravi
+396,2014,,23-04-2014,CSK,RR,RR,field,normal,0,CSK,7,0,RA Jadeja,Dubai International Cricket Stadium,HDPK Dharmasena,RK Illingworth
+397,2014,Sharjah,24-04-2014,KKR,RCB,RCB,field,normal,0,KKR,2,0,CA Lynn,Sharjah Cricket Stadium,Aleem Dar,VA Kulkarni
+398,2014,,25-04-2014,SRH,DD,SRH,bat,normal,0,SRH,4,0,AJ Finch,Dubai International Cricket Stadium,M Erasmus,S Ravi
+399,2014,,25-04-2014,MI,CSK,MI,bat,normal,0,CSK,0,7,MM Sharma,Dubai International Cricket Stadium,BF Bowden,M Erasmus
+400,2014,Abu Dhabi,26-04-2014,RCB,RR,RR,field,normal,0,RR,0,6,PV Tambe,Sheikh Zayed Stadium,HDPK Dharmasena,C Shamshuddin
+401,2014,Abu Dhabi,26-04-2014,KXIP,KKR,KKR,field,normal,0,KXIP,23,0,Sandeep Sharma,Sheikh Zayed Stadium,HDPK Dharmasena,RK Illingworth
+402,2014,Sharjah,27-04-2014,MI,DD,MI,bat,normal,0,DD,0,6,M Vijay,Sharjah Cricket Stadium,Aleem Dar,VA Kulkarni
+403,2014,Sharjah,27-04-2014,SRH,CSK,SRH,bat,normal,0,CSK,0,5,DR Smith,Sharjah Cricket Stadium,AK Chaudhary,VA Kulkarni
+404,2014,,28-04-2014,RCB,KXIP,KXIP,field,normal,0,KXIP,0,5,Sandeep Sharma,Dubai International Cricket Stadium,BF Bowden,S Ravi
+405,2014,Abu Dhabi,29-04-2014,RR,KKR,RR,bat,tie,0,RR,0,0,JP Faulkner,Sheikh Zayed Stadium,Aleem Dar,AK Chaudhary
+406,2014,,30-04-2014,SRH,MI,MI,field,normal,0,SRH,15,0,B Kumar,Dubai International Cricket Stadium,HDPK Dharmasena,M Erasmus
+407,2014,Ranchi,02-05-2014,CSK,KKR,CSK,bat,normal,0,CSK,34,0,RA Jadeja,JSCA International Stadium Complex,AK Chaudhary,NJ Llong
+408,2014,Mumbai,03-05-2014,KXIP,MI,KXIP,bat,normal,0,MI,0,5,CJ Anderson,Wankhede Stadium,BNJ Oxenford,C Shamshuddin
+409,2014,Delhi,03-05-2014,DD,RR,RR,field,normal,0,RR,0,7,KK Nair,Feroz Shah Kotla,SS Hazare,S Ravi
+410,2014,Bangalore,04-05-2014,SRH,RCB,RCB,field,normal,0,RCB,0,4,AB de Villiers,M Chinnaswamy Stadium,HDPK Dharmasena,VA Kulkarni
+411,2014,Ahmedabad,05-05-2014,RR,KKR,KKR,field,normal,0,RR,10,0,PV Tambe,"Sardar Patel Stadium, Motera",NJ Llong,CK Nandan
+412,2014,Delhi,05-05-2014,DD,CSK,CSK,field,normal,0,CSK,0,8,DR Smith,Feroz Shah Kotla,RM Deshpande,BNJ Oxenford
+413,2014,Mumbai,06-05-2014,MI,RCB,RCB,field,normal,0,MI,19,0,RG Sharma,Wankhede Stadium,S Ravi,K Srinath
+414,2014,Delhi,07-05-2014,DD,KKR,DD,bat,normal,0,KKR,0,8,G Gambhir,Feroz Shah Kotla,BNJ Oxenford,C Shamshuddin
+415,2014,Cuttack,07-05-2014,KXIP,CSK,CSK,field,normal,0,KXIP,44,0,GJ Maxwell,Barabati Stadium,HDPK Dharmasena,PG Pathak
+416,2014,Ahmedabad,08-05-2014,SRH,RR,RR,field,normal,0,SRH,32,0,B Kumar,"Sardar Patel Stadium, Motera",AK Chaudhary,NJ Llong
+417,2014,Bangalore,09-05-2014,KXIP,RCB,RCB,field,normal,0,KXIP,32,0,Sandeep Sharma,M Chinnaswamy Stadium,S Ravi,K Srinath
+418,2014,Delhi,10-05-2014,DD,SRH,SRH,field,normal,1,SRH,0,8,DW Steyn,Feroz Shah Kotla,RM Deshpande,BNJ Oxenford
+419,2014,Mumbai,10-05-2014,MI,CSK,CSK,field,normal,0,CSK,0,4,DR Smith,Wankhede Stadium,HDPK Dharmasena,VA Kulkarni
+420,2014,Cuttack,11-05-2014,KXIP,KKR,KKR,field,normal,0,KKR,0,9,G Gambhir,Barabati Stadium,NJ Llong,CK Nandan
+421,2014,Bangalore,11-05-2014,RCB,RR,RCB,bat,normal,0,RR,0,5,JP Faulkner,M Chinnaswamy Stadium,S Ravi,RJ Tucker
+422,2014,Hyderabad,12-05-2014,SRH,MI,SRH,bat,normal,0,MI,0,7,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,VA Kulkarni
+423,2014,Ranchi,13-05-2014,RR,CSK,RR,bat,normal,0,CSK,0,5,RA Jadeja,JSCA International Stadium Complex,BNJ Oxenford,C Shamshuddin
+424,2014,Bangalore,13-05-2014,RCB,DD,DD,field,normal,0,RCB,16,0,Yuvraj Singh,M Chinnaswamy Stadium,K Srinath,RJ Tucker
+425,2014,Hyderabad,14-05-2014,SRH,KXIP,KXIP,field,normal,0,KXIP,0,6,WP Saha,"Rajiv Gandhi International Stadium, Uppal",VA Kulkarni,PG Pathak
+426,2014,Cuttack,14-05-2014,MI,KKR,KKR,field,normal,0,KKR,0,6,RV Uthappa,Barabati Stadium,AK Chaudhary,NJ Llong
+427,2014,Ahmedabad,15-05-2014,RR,DD,DD,field,normal,0,RR,62,0,AM Rahane,"Sardar Patel Stadium, Motera",S Ravi,RJ Tucker
+428,2014,Ranchi,18-05-2014,CSK,RCB,CSK,bat,normal,0,RCB,0,5,AB de Villiers,JSCA International Stadium Complex,BNJ Oxenford,C Shamshuddin
+429,2014,Hyderabad,18-05-2014,SRH,KKR,SRH,bat,normal,0,KKR,0,7,UT Yadav,"Rajiv Gandhi International Stadium, Uppal",NJ Llong,CK Nandan
+430,2014,Ahmedabad,19-05-2014,MI,RR,MI,bat,normal,0,MI,25,0,MEK Hussey,"Sardar Patel Stadium, Motera",S Ravi,RJ Tucker
+431,2014,Delhi,19-05-2014,DD,KXIP,KXIP,field,normal,0,KXIP,0,4,AR Patel,Feroz Shah Kotla,HDPK Dharmasena,PG Pathak
+432,2014,Hyderabad,20-05-2014,RCB,SRH,RCB,bat,normal,0,SRH,0,7,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,NJ Llong
+433,2014,Kolkata,20-05-2014,CSK,KKR,KKR,field,normal,0,KKR,0,8,RV Uthappa,Eden Gardens,RM Deshpande,C Shamshuddin
+434,2014,Chandigarh,21-05-2014,KXIP,MI,MI,field,normal,0,MI,0,7,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,VA Kulkarni
+435,2014,Kolkata,22-05-2014,KKR,RCB,RCB,field,normal,0,KKR,30,0,RV Uthappa,Eden Gardens,AK Chaudhary,CK Nandan
+436,2014,Ranchi,22-05-2014,CSK,SRH,SRH,field,normal,0,SRH,0,6,DA Warner,JSCA International Stadium Complex,BNJ Oxenford,C Shamshuddin
+437,2014,Mumbai,23-05-2014,MI,DD,DD,field,normal,0,MI,15,0,MEK Hussey,Wankhede Stadium,S Ravi,RJ Tucker
+438,2014,Chandigarh,23-05-2014,KXIP,RR,RR,field,normal,0,KXIP,16,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,PG Pathak
+439,2014,Bangalore,24-05-2014,RCB,CSK,CSK,field,normal,0,CSK,0,8,MS Dhoni,M Chinnaswamy Stadium,AK Chaudhary,NJ Llong
+440,2014,Kolkata,24-05-2014,SRH,KKR,KKR,field,normal,0,KKR,0,4,YK Pathan,Eden Gardens,RM Deshpande,BNJ Oxenford
+441,2014,Chandigarh,25-05-2014,DD,KXIP,KXIP,field,normal,0,KXIP,0,7,M Vohra,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,VA Kulkarni
+442,2014,Mumbai,25-05-2014,RR,MI,MI,field,normal,0,MI,0,5,CJ Anderson,Wankhede Stadium,K Srinath,RJ Tucker
+443,2014,Kolkata,27-05-2014,KKR,KXIP,KXIP,field,normal,0,KKR,28,0,UT Yadav,Eden Gardens,NJ Llong,S Ravi
+444,2014,Mumbai,28-05-2014,MI,CSK,CSK,field,normal,0,CSK,0,7,SK Raina,Brabourne Stadium,VA Kulkarni,BNJ Oxenford
+445,2014,Mumbai,30-05-2014,KXIP,CSK,CSK,field,normal,0,KXIP,24,0,V Sehwag,Wankhede Stadium,HDPK Dharmasena,RJ Tucker
+446,2014,Bangalore,01-06-2014,KXIP,KKR,KKR,field,normal,0,KKR,0,3,MK Pandey,M Chinnaswamy Stadium,HDPK Dharmasena,BNJ Oxenford
+447,2015,Kolkata,08-04-2015,MI,KKR,KKR,field,normal,0,KKR,0,7,M Morkel,Eden Gardens,S Ravi,C Shamshuddin
+448,2015,Chennai,09-04-2015,CSK,DD,DD,field,normal,0,CSK,1,0,A Nehra,"MA Chidambaram Stadium, Chepauk",RK Illingworth,VA Kulkarni
+449,2015,Pune,10-04-2015,RR,KXIP,KXIP,field,normal,0,RR,26,0,JP Faulkner,Maharashtra Cricket Association Stadium,SD Fry,CB Gaffaney
+450,2015,Chennai,11-04-2015,CSK,SRH,CSK,bat,normal,0,CSK,45,0,BB McCullum,"MA Chidambaram Stadium, Chepauk",RK Illingworth,VA Kulkarni
+451,2015,Kolkata,11-04-2015,KKR,RCB,RCB,field,normal,0,RCB,0,3,CH Gayle,Eden Gardens,S Ravi,C Shamshuddin
+452,2015,Delhi,12-04-2015,DD,RR,RR,field,normal,0,RR,0,3,DJ Hooda,Feroz Shah Kotla,SD Fry,CB Gaffaney
+453,2015,Mumbai,12-04-2015,KXIP,MI,MI,field,normal,0,KXIP,18,0,GJ Bailey,Wankhede Stadium,AK Chaudhary,K Srinivasan
+454,2015,Bangalore,13-04-2015,RCB,SRH,SRH,field,normal,0,SRH,0,8,DA Warner,M Chinnaswamy Stadium,RM Deshpande,RK Illingworth
+455,2015,Ahmedabad,14-04-2015,MI,RR,MI,bat,normal,0,RR,0,7,SPD Smith,"Sardar Patel Stadium, Motera",AK Chaudhary,SD Fry
+456,2015,Kolkata,30-04-2015,CSK,KKR,KKR,field,normal,0,KKR,0,7,AD Russell,Eden Gardens,AK Chaudhary,M Erasmus
+457,2015,Pune,15-04-2015,KXIP,DD,KXIP,bat,normal,0,DD,0,5,MA Agarwal,Maharashtra Cricket Association Stadium,CB Gaffaney,K Srinath
+458,2015,Visakhapatnam,16-04-2015,SRH,RR,RR,field,normal,0,RR,0,6,AM Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,PG Pathak,S Ravi
+459,2015,Mumbai,17-04-2015,MI,CSK,MI,bat,normal,0,CSK,0,6,A Nehra,Wankhede Stadium,AK Chaudhary,M Erasmus
+460,2015,Visakhapatnam,18-04-2015,DD,SRH,DD,bat,normal,0,DD,4,0,JP Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,PG Pathak,S Ravi
+461,2015,Pune,18-04-2015,KXIP,KKR,KKR,field,normal,0,KKR,0,4,AD Russell,Maharashtra Cricket Association Stadium,SD Fry,CK Nandan
+462,2015,Ahmedabad,19-04-2015,CSK,RR,CSK,bat,normal,0,RR,0,8,AM Rahane,"Sardar Patel Stadium, Motera",AK Chaudhary,M Erasmus
+463,2015,Bangalore,19-04-2015,MI,RCB,RCB,field,normal,0,MI,18,0,Harbhajan Singh,M Chinnaswamy Stadium,RK Illingworth,VA Kulkarni
+464,2015,Delhi,20-04-2015,DD,KKR,KKR,field,normal,0,KKR,0,6,UT Yadav,Feroz Shah Kotla,SD Fry,CB Gaffaney
+465,2015,Ahmedabad,21-04-2015,RR,KXIP,KXIP,field,tie,0,KXIP,0,0,SE Marsh,"Sardar Patel Stadium, Motera",M Erasmus,S Ravi
+466,2015,Visakhapatnam,22-04-2015,SRH,KKR,KKR,field,normal,1,SRH,16,0,DA Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,RK Illingworth,VA Kulkarni
+467,2015,Bangalore,22-04-2015,CSK,RCB,RCB,field,normal,0,CSK,27,0,SK Raina,M Chinnaswamy Stadium,JD Cloete,C Shamshuddin
+468,2015,Delhi,23-04-2015,DD,MI,MI,field,normal,0,DD,37,0,SS Iyer,Feroz Shah Kotla,SD Fry,CK Nandan
+469,2015,Ahmedabad,24-04-2015,RR,RCB,RCB,field,normal,0,RCB,0,9,MA Starc,"Sardar Patel Stadium, Motera",M Erasmus,S Ravi
+470,2015,Mumbai,25-04-2015,MI,SRH,MI,bat,normal,0,MI,20,0,SL Malinga,Wankhede Stadium,HDPK Dharmasena,CB Gaffaney
+471,2015,Chennai,25-04-2015,CSK,KXIP,CSK,bat,normal,0,CSK,97,0,BB McCullum,"MA Chidambaram Stadium, Chepauk",JD Cloete,C Shamshuddin
+472,2015,Delhi,26-04-2015,DD,RCB,RCB,field,normal,0,RCB,0,10,VR Aaron,Feroz Shah Kotla,M Erasmus,S Ravi
+473,2015,Chandigarh,27-04-2015,SRH,KXIP,KXIP,field,normal,0,SRH,20,0,TA Boult,"Punjab Cricket Association Stadium, Mohali",HDPK Dharmasena,CB Gaffaney
+474,2015,Kolkata,07-05-2015,KKR,DD,KKR,bat,normal,0,KKR,13,0,PP Chawla,Eden Gardens,AK Chaudhary,M Erasmus
+475,2015,Bangalore,29-04-2015,RCB,RR,RR,field,no result,0,,0,0,,M Chinnaswamy Stadium,JD Cloete,PG Pathak
+476,2015,Chennai,28-04-2015,CSK,KKR,KKR,field,normal,0,CSK,2,0,DJ Bravo,"MA Chidambaram Stadium, Chepauk",RM Deshpande,VA Kulkarni
+477,2015,Delhi,01-05-2015,KXIP,DD,DD,field,normal,0,DD,0,9,NM Coulter-Nile,Feroz Shah Kotla,RK Illingworth,S Ravi
+478,2015,Mumbai,01-05-2015,MI,RR,RR,field,normal,0,MI,8,0,AT Rayudu,Wankhede Stadium,HDPK Dharmasena,CK Nandan
+479,2015,Bangalore,02-05-2015,KKR,RCB,RCB,field,normal,0,RCB,0,7,Mandeep Singh,M Chinnaswamy Stadium,JD Cloete,PG Pathak
+480,2015,Hyderabad,02-05-2015,SRH,CSK,CSK,field,normal,0,SRH,22,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,K Srinivasan
+481,2015,Chandigarh,03-05-2015,MI,KXIP,MI,bat,normal,0,MI,23,0,LMP Simmons,"Punjab Cricket Association Stadium, Mohali",RK Illingworth,VA Kulkarni
+482,2015,Mumbai,03-05-2015,RR,DD,DD,field,normal,0,RR,14,0,AM Rahane,Brabourne Stadium,HDPK Dharmasena,CB Gaffaney
+483,2015,Chennai,04-05-2015,CSK,RCB,CSK,bat,normal,0,CSK,24,0,SK Raina,"MA Chidambaram Stadium, Chepauk",C Shamshuddin,K Srinath
+484,2015,Kolkata,04-05-2015,KKR,SRH,SRH,field,normal,0,KKR,35,0,UT Yadav,Eden Gardens,AK Chaudhary,M Erasmus
+485,2015,Mumbai,05-05-2015,DD,MI,DD,bat,normal,0,MI,0,5,Harbhajan Singh,Wankhede Stadium,HDPK Dharmasena,CB Gaffaney
+486,2015,Bangalore,06-05-2015,RCB,KXIP,KXIP,field,normal,0,RCB,138,0,CH Gayle,M Chinnaswamy Stadium,RK Illingworth,VA Kulkarni
+487,2015,Mumbai,07-05-2015,SRH,RR,RR,field,normal,0,SRH,7,0,EJG Morgan,Brabourne Stadium,JD Cloete,C Shamshuddin
+488,2015,Chennai,08-05-2015,CSK,MI,CSK,bat,normal,0,MI,0,6,HH Pandya,"MA Chidambaram Stadium, Chepauk",CB Gaffaney,CK Nandan
+489,2015,Kolkata,09-05-2015,KXIP,KKR,KXIP,bat,normal,0,KKR,0,1,AD Russell,Eden Gardens,AK Chaudhary,HDPK Dharmasena
+490,2015,Raipur,09-05-2015,SRH,DD,SRH,bat,normal,0,SRH,6,0,MC Henriques,Shaheed Veer Narayan Singh International Stadium,VA Kulkarni,S Ravi
+491,2015,Mumbai,10-05-2015,RCB,MI,RCB,bat,normal,0,RCB,39,0,AB de Villiers,Wankhede Stadium,JD Cloete,C Shamshuddin
+492,2015,Chennai,10-05-2015,CSK,RR,CSK,bat,normal,0,CSK,12,0,RA Jadeja,"MA Chidambaram Stadium, Chepauk",M Erasmus,CK Nandan
+493,2015,Hyderabad,11-05-2015,SRH,KXIP,SRH,bat,normal,0,SRH,5,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,HDPK Dharmasena
+494,2015,Raipur,12-05-2015,CSK,DD,CSK,bat,normal,0,DD,0,6,Z Khan,Shaheed Veer Narayan Singh International Stadium,RK Illingworth,VA Kulkarni
+495,2015,Chandigarh,13-05-2015,KXIP,RCB,RCB,field,normal,0,KXIP,22,0,AR Patel,"Punjab Cricket Association Stadium, Mohali",JD Cloete,C Shamshuddin
+496,2015,Mumbai,14-05-2015,MI,KKR,KKR,field,normal,0,MI,5,0,HH Pandya,Wankhede Stadium,RK Illingworth,VA Kulkarni
+497,2015,Hyderabad,15-05-2015,SRH,RCB,SRH,bat,normal,1,RCB,0,6,V Kohli,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,HDPK Dharmasena
+498,2015,Chandigarh,16-05-2015,KXIP,CSK,KXIP,bat,normal,0,CSK,0,7,P Negi,"Punjab Cricket Association Stadium, Mohali",CK Nandan,C Shamshuddin
+499,2015,Mumbai,16-05-2015,RR,KKR,RR,bat,normal,0,RR,9,0,SR Watson,Brabourne Stadium,RM Deshpande,RK Illingworth
+500,2015,Bangalore,17-05-2015,DD,RCB,RCB,field,no result,0,,0,0,,M Chinnaswamy Stadium,HDPK Dharmasena,K Srinivasan
+501,2015,Hyderabad,17-05-2015,SRH,MI,SRH,bat,normal,0,MI,0,9,MJ McClenaghan,"Rajiv Gandhi International Stadium, Uppal",CB Gaffaney,K Srinath
+502,2015,Mumbai,19-05-2015,MI,CSK,MI,bat,normal,0,MI,25,0,KA Pollard,Wankhede Stadium,HDPK Dharmasena,RK Illingworth
+503,2015,Pune,20-05-2015,RCB,RR,RCB,bat,normal,0,RCB,71,0,AB de Villiers,Maharashtra Cricket Association Stadium,AK Chaudhary,C Shamshuddin
+504,2015,Ranchi,22-05-2015,RCB,CSK,CSK,field,normal,0,CSK,0,3,A Nehra,JSCA International Stadium Complex,AK Chaudhary,CB Gaffaney
+505,2015,Kolkata,24-05-2015,MI,CSK,CSK,field,normal,0,MI,41,0,RG Sharma,Eden Gardens,HDPK Dharmasena,RK Illingworth
+506,2016,Mumbai,09-04-2016,MI,RPS,MI,bat,normal,0,RPS,0,9,AM Rahane,Wankhede Stadium,HDPK Dharmasena,CK Nandan
+507,2016,Kolkata,10-04-2016,DD,KKR,KKR,field,normal,0,KKR,0,9,AD Russell,Eden Gardens,S Ravi,C Shamshuddin
+508,2016,Chandigarh,11-04-2016,KXIP,GL,GL,field,normal,0,GL,0,5,AJ Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali",AK Chaudhary,VA Kulkarni
+509,2016,Bangalore,12-04-2016,RCB,SRH,SRH,field,normal,0,RCB,45,0,AB de Villiers,M Chinnaswamy Stadium,HDPK Dharmasena,VK Sharma
+510,2016,Kolkata,13-04-2016,KKR,MI,MI,field,normal,0,MI,0,6,RG Sharma,Eden Gardens,Nitin Menon,S Ravi
+511,2016,Rajkot,14-04-2016,RPS,GL,RPS,bat,normal,0,GL,0,7,AJ Finch,Saurashtra Cricket Association Stadium,VA Kulkarni,CK Nandan
+512,2016,Delhi,15-04-2016,KXIP,DD,DD,field,normal,0,DD,0,8,A Mishra,Feroz Shah Kotla,S Ravi,C Shamshuddin
+513,2016,Hyderabad,16-04-2016,SRH,KKR,SRH,bat,normal,0,KKR,0,8,G Gambhir,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,CK Nandan
+514,2016,Mumbai,16-04-2016,MI,GL,GL,field,normal,0,GL,0,3,AJ Finch,Wankhede Stadium,HDPK Dharmasena,VK Sharma
+515,2016,Chandigarh,17-04-2016,RPS,KXIP,RPS,bat,normal,0,KXIP,0,6,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali",S Ravi,C Shamshuddin
+516,2016,Bangalore,17-04-2016,RCB,DD,DD,field,normal,0,DD,0,7,Q de Kock,M Chinnaswamy Stadium,VA Kulkarni,A Nand Kishore
+517,2016,Hyderabad,18-04-2016,MI,SRH,SRH,field,normal,0,SRH,0,7,DA Warner,"Rajiv Gandhi International Stadium, Uppal",HDPK Dharmasena,VK Sharma
+518,2016,Chandigarh,19-04-2016,KXIP,KKR,KKR,field,normal,0,KKR,0,6,RV Uthappa,"Punjab Cricket Association IS Bindra Stadium, Mohali",S Ravi,C Shamshuddin
+519,2016,Mumbai,20-04-2016,RCB,MI,MI,field,normal,0,MI,0,6,RG Sharma,Wankhede Stadium,AK Chaudhary,CK Nandan
+520,2016,Rajkot,21-04-2016,GL,SRH,SRH,field,normal,0,SRH,0,10,B Kumar,Saurashtra Cricket Association Stadium,K Bharatan,HDPK Dharmasena
+521,2016,Pune,22-04-2016,RCB,RPS,RPS,field,normal,0,RCB,13,0,AB de Villiers,Maharashtra Cricket Association Stadium,CB Gaffaney,VK Sharma
+522,2016,Delhi,23-04-2016,DD,MI,MI,field,normal,0,DD,10,0,SV Samson,Feroz Shah Kotla,S Ravi,C Shamshuddin
+523,2016,Hyderabad,23-04-2016,KXIP,SRH,SRH,field,normal,0,SRH,0,5,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,CK Nandan
+524,2016,Rajkot,24-04-2016,RCB,GL,RCB,bat,normal,0,GL,0,6,V Kohli,Saurashtra Cricket Association Stadium,K Bharatan,BNJ Oxenford
+525,2016,Pune,24-04-2016,RPS,KKR,KKR,field,normal,0,KKR,0,2,SA Yadav,Maharashtra Cricket Association Stadium,CB Gaffaney,A Nand Kishore
+526,2016,Chandigarh,25-04-2016,MI,KXIP,KXIP,field,normal,0,MI,25,0,PA Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali",Nitin Menon,RJ Tucker
+527,2016,Hyderabad,26-04-2016,SRH,RPS,RPS,field,normal,1,RPS,34,0,AB Dinda,"Rajiv Gandhi International Stadium, Uppal",AY Dandekar,CK Nandan
+528,2016,Delhi,27-04-2016,GL,DD,DD,field,normal,0,GL,1,0,CH Morris,Feroz Shah Kotla,M Erasmus,S Ravi
+529,2016,Mumbai,28-04-2016,KKR,MI,MI,field,normal,0,MI,0,6,RG Sharma,Wankhede Stadium,Nitin Menon,RJ Tucker
+530,2016,Pune,29-04-2016,RPS,GL,GL,field,normal,0,GL,0,3,DR Smith,Maharashtra Cricket Association Stadium,CB Gaffaney,BNJ Oxenford
+531,2016,Delhi,30-04-2016,DD,KKR,KKR,field,normal,0,DD,27,0,CR Brathwaite,Feroz Shah Kotla,KN Ananthapadmanabhan,M Erasmus
+532,2016,Hyderabad,30-04-2016,SRH,RCB,RCB,field,normal,0,SRH,15,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal",AK Chaudhary,HDPK Dharmasena
+533,2016,Rajkot,01-05-2016,KXIP,GL,GL,field,normal,0,KXIP,23,0,AR Patel,Saurashtra Cricket Association Stadium,BNJ Oxenford,VK Sharma
+534,2016,Pune,01-05-2016,RPS,MI,MI,field,normal,0,MI,0,8,RG Sharma,Maharashtra Cricket Association Stadium,AY Dandekar,RJ Tucker
+535,2016,Bangalore,02-05-2016,RCB,KKR,KKR,field,normal,0,KKR,0,5,AD Russell,M Chinnaswamy Stadium,M Erasmus,S Ravi
+536,2016,Rajkot,03-05-2016,GL,DD,DD,field,normal,0,DD,0,8,RR Pant,Saurashtra Cricket Association Stadium,CB Gaffaney,BNJ Oxenford
+537,2016,Kolkata,04-05-2016,KKR,KXIP,KXIP,field,normal,0,KKR,7,0,AD Russell,Eden Gardens,AK Chaudhary,HDPK Dharmasena
+538,2016,Delhi,05-05-2016,DD,RPS,RPS,field,normal,0,RPS,0,7,AM Rahane,Feroz Shah Kotla,C Shamshuddin,RJ Tucker
+539,2016,Hyderabad,06-05-2016,GL,SRH,SRH,field,normal,0,SRH,0,5,B Kumar,"Rajiv Gandhi International Stadium, Uppal",M Erasmus,S Ravi
+540,2016,Bangalore,07-05-2016,RPS,RCB,RCB,field,normal,0,RCB,0,7,V Kohli,M Chinnaswamy Stadium,CB Gaffaney,BNJ Oxenford
+541,2016,Chandigarh,07-05-2016,KXIP,DD,DD,field,normal,0,KXIP,9,0,MP Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali",HDPK Dharmasena,CK Nandan
+542,2016,Visakhapatnam,08-05-2016,SRH,MI,MI,field,normal,0,SRH,85,0,A Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,S Ravi,C Shamshuddin
+543,2016,Kolkata,08-05-2016,KKR,GL,GL,field,normal,0,GL,0,5,P Kumar,Eden Gardens,M Erasmus,RJ Tucker
+544,2016,Chandigarh,09-05-2016,RCB,KXIP,KXIP,field,normal,0,RCB,1,0,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali",AK Chaudhary,HDPK Dharmasena
+545,2016,Visakhapatnam,10-05-2016,SRH,RPS,SRH,bat,normal,0,SRH,4,0,A Zampa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,CB Gaffaney,VK Sharma
+546,2016,Bangalore,11-05-2016,RCB,MI,MI,field,normal,0,MI,0,6,KH Pandya,M Chinnaswamy Stadium,AY Dandekar,C Shamshuddin
+547,2016,Hyderabad,12-05-2016,SRH,DD,DD,field,normal,0,DD,0,7,CH Morris,"Rajiv Gandhi International Stadium, Uppal",K Bharatan,M Erasmus
+548,2016,Visakhapatnam,13-05-2016,MI,KXIP,MI,bat,normal,0,KXIP,0,7,MP Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,HDPK Dharmasena,CK Nandan
+549,2016,Bangalore,14-05-2016,RCB,GL,GL,field,normal,0,RCB,144,0,AB de Villiers,M Chinnaswamy Stadium,AY Dandekar,VK Sharma
+550,2016,Kolkata,14-05-2016,RPS,KKR,RPS,bat,normal,1,KKR,0,8,YK Pathan,Eden Gardens,A Nand Kishore,BNJ Oxenford
+551,2016,Chandigarh,15-05-2016,KXIP,SRH,KXIP,bat,normal,0,SRH,0,7,HM Amla,"Punjab Cricket Association IS Bindra Stadium, Mohali",KN Ananthapadmanabhan,M Erasmus
+552,2016,Visakhapatnam,15-05-2016,MI,DD,DD,field,normal,0,MI,80,0,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Nitin Menon,CK Nandan
+553,2016,Kolkata,16-05-2016,KKR,RCB,RCB,field,normal,0,RCB,0,9,V Kohli,Eden Gardens,CB Gaffaney,A Nand Kishore
+554,2016,Visakhapatnam,17-05-2016,DD,RPS,RPS,field,normal,1,RPS,19,0,AB Dinda,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Nitin Menon,C Shamshuddin
+555,2016,Bangalore,18-05-2016,RCB,KXIP,KXIP,field,normal,1,RCB,82,0,V Kohli,M Chinnaswamy Stadium,KN Ananthapadmanabhan,M Erasmus
+556,2016,Kanpur,19-05-2016,KKR,GL,GL,field,normal,0,GL,0,6,DR Smith,Green Park,AK Chaudhary,CK Nandan
+557,2016,Raipur,20-05-2016,SRH,DD,DD,field,normal,0,DD,0,6,KK Nair,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford
+558,2016,Visakhapatnam,21-05-2016,KXIP,RPS,KXIP,bat,normal,0,RPS,0,4,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,HDPK Dharmasena,Nitin Menon
+559,2016,Kanpur,21-05-2016,MI,GL,GL,field,normal,0,GL,0,6,SK Raina,Green Park,AK Chaudhary,CK Nandan
+560,2016,Kolkata,22-05-2016,KKR,SRH,SRH,field,normal,0,KKR,22,0,YK Pathan,Eden Gardens,KN Ananthapadmanabhan,M Erasmus
+561,2016,Raipur,22-05-2016,DD,RCB,RCB,field,normal,0,RCB,0,6,V Kohli,Shaheed Veer Narayan Singh International Stadium,A Nand Kishore,BNJ Oxenford
+562,2016,Bangalore,24-05-2016,GL,RCB,RCB,field,normal,0,RCB,0,4,AB de Villiers,M Chinnaswamy Stadium,AK Chaudhary,HDPK Dharmasena
+563,2016,Delhi,25-05-2016,SRH,KKR,KKR,field,normal,0,SRH,22,0,MC Henriques,Feroz Shah Kotla,M Erasmus,C Shamshuddin
+564,2016,Delhi,27-05-2016,GL,SRH,SRH,field,normal,0,SRH,0,4,DA Warner,Feroz Shah Kotla,M Erasmus,CK Nandan
+565,2016,Bangalore,29-05-2016,SRH,RCB,SRH,bat,normal,0,SRH,8,0,BCJ Cutting,M Chinnaswamy Stadium,HDPK Dharmasena,BNJ Oxenford
